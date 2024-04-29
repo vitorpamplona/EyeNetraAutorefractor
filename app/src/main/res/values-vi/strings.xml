@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">Về chúng tôi</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">BẮT ĐẦU</string>
+
+    <string name="start_beginner">HƯỚNG DẪN</string>
+    <string name="start_experienced">BẮT ĐẦU</string>
+
+    <string name="got_it">ĐÃ HIỂU</string>
+    <string name="insert_into_device">NHẤN VÀO ĐÂY\nVÀ CHO ĐIỆN THOẠI VÀO </string>
+    <string name="login">ĐĂNG NHẬP</string>
+
+    <string name="aligned">SO HÀNG</string>
+    <string name="found">OK, ĐÃ TÌM THẤY CHÚNG!</string>
+
+    <string name="signup">ĐĂNG KÝ</string>
+    <string name="start_test">XÁC NHẬN</string>
+    <string name="restart_uppercase">KHỞI ĐỘNG LẠI</string>
+    <string name="finish_uppercase">HOÀN TẤT</string>
+    <string name="finish_with_note_uppercase">THÊM PHẦN GHI CHÚ</string>
+    <string name="got_it_let_me_try">ĐÃ HIỂU! ĐỂ TÔI THỬ</string>
+
+    <string name="restart_training">KHỞI ĐỘNG LẠI PHẦN HUẤN LUYỆN</string>
+    <string name="result_screen">CÁC KẾT QUẢ</string>
+
+    <string name="navigation_drawer_open">Mở ngăn định vị</string>
+    <string name="navigation_drawer_close">Đóng ngăn định vị</string>
+    <string name="action_settings">Các chế độ cài đặt</string>
+
+    <string name="not_online_title">Thiết bị ở chế độ ngoại tuyến</string>
+    <string name="not_online_desc">Làm ơn kết nối với hệ thống mạng hoặc hệ thống dữ liệu trên điện thoại của bạn trước khi đăng nhập hoặc đăng ký tài khoản</string>
+
+    <string name="missing_email">Thiếu lá Thư điện tử</string>
+    <string name="insert_valid_email">Chèn một lá thư điện tử có hiệu lực</string>
+    <string name="invalid_email_title">Lá thư điện tử không có hiệu lực</string>
+    <string name="email_format_is_invalid">Định dạng của lá Thư điện tử không có hiệu lực</string>
+    <string name="invalid_password">Mật khẩu không có hiệu lực</string>
+    <string name="insert_a_valid_password">Chèn một mật khẩu có 8 ký tự, ít nhất có một chữ viết hoa và một con số</string>
+    <string name="authenticating">Đang chứng thực...</string>
+    <string name="invalid_login_msg">Sai thư điện tử hoặc mật khẩu</string>
+    <string name="login_invalid">Đăng nhập không có hiệu lực</string>
+    <string name="incomplete_sign_up">Đăng ký chưa hoàn thành</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+    <string name="confidence_great">Tuyệt vời</string>
+    <string name="confidence_good">Rất tốt</string>
+    <string name="confidence_poor">Không tốt</string>
+    <string name="confidence_very_poor">Rất tệ</string>
+
+    <string name="add_note">Thêm một ghi chú</string>
+    <string name="add_note_desc"> Dán mác các kết quả với một định danh ngắn</string>
+    <string name="add_note_hint">Tên bệnh nhân</string>
+    <string name="age_hint">Tuổi</string>
+
+    <string name="error_battery_below_20_title">Pin ở dưới mức 20%</string>
+    <string name="error_battery_below_20_desc">Android giảm năng xuất làm việc và thay đổi chế độ ánh sáng khi pin ở dưới mức 20%. Điều này làm ảnh hưởng đến độ chính xác của các kết quả. Làm ơn sạc pin cho thiết bị.</string>
+
+    <string name="off_line_title">Thiết bị ở chế độ ngoại tuyến </string>
+    <string name="off_line_desc"> Kết nối với internet để cập nhật thông tin, sự hỗ trợ tức thời và hình dung dữ liệu của bạn trên cổng thông tin trí tuệ.</string>
+
+    <string name="update_title">Phiên bản mới hiện đang có sẵn</string>
+    <string name="update_desc">Sử dụng Kho ứng dụng giải trí để tải phiên bản mới nhất của ứng dụng này. Chúng tôi phát hành phiên bản mới 2 tuần một lần. </string>
+
+    <string name="camera_locked_title">Máy ảnh bị Khoá</string>
+    <string name="camera_locked_desc">Máy ảnh hiện đang được sử dụng bởi một ứng dụng khác. Làm ơn đóng tất cả các ứng dụng hoặc đơn thuần khởi động lại điện.</string>
+
+    <string name="use_left_knob_to_align_lines">USE SỬ DỤNG NÚT VẶN BÊN TRÁI ĐỂ SO CÁC HÀNG</string>
+    <string name="ok_they_are_aligned">OK, CHÚNG ĐÃ ĐƯỢC SO THÀNH HÀNG NGAY NGẮN.</string>
+    <string name="press_confirm_to_record_measurement">NHẤN XÁC NHẬN ĐỂ\nGHI LẠI SỰ ĐO ĐẠC</string>
+
+    <string name="you_will_perform_this_test_yourself">BẠN KIỂM SOÁT KIỂM TRA</string>
+    <string name="sit_comfortably">SIT HOÀN TOÀN VỚI CÁC ELBOW ĐƯỢC HPORT TRỢ</string>
+    <string name="learn_controls">TÌM KIẾM KIỂM SOÁT</string>
+
+
+    <string name="when_you_see_a_checkmark_you_are_done">TIẾP TỤC UNTIL BẠN XEM MỘT MÃ KIỂM TRA MÀU XANH</string>
+
+    <string name="the_lines_rotate">CÁC DÒNG QUAY LẠI CHO MỘT ĐO LƯỜNG MỚI</string>
+
+    <string name="great_confirm">TUYỆT VỜI! XÁC NHẬN</string>
+    <string name="login_to_see_your_account">Đăng nhập để thấy tài khoản của bạn</string>
+    <string name="login_required">Yêu cầu đăng nhập</string>
+    <string name="default_organization_name">Phần thực hành Chăm sóc Mắt của Tôi</string>
+
+    <string name="save">Lưu trữ</string>
+    <string name="cancel">Huỷ</string>
+    <string name="ok">OK</string>
+
+    <string name="requesting_token">Đang yêu cầu Mã thông báo...</string>
+    <string name="number_prefix_reading_card_empty_note">Kiểm tra</string>
+    <string name="today">HÔM NAY</string>
+    <string name="yesterday">HÔM QUA</string>
+    <string name="cancel_test">HUỶ</string>
+    <string name="finish_test">TẤT CẢ ĐÃ ĐƯỢC THIẾT LẬP</string>
+    <string name="training">PHẦN HUẤN LUYỆN</string>
+    <string name="insert_into_device_test">Chèn vào thiết bị \nhoặc nhấn nút quay lại để huỷ việc kiểm tra</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Chèn vào thiết bị để tiếp tục \nhoặc nhấn nút quay lại để thấy các kết quả PD</string>
+    <string name="welcome">Chào mừng</string>
+    <string name="password_hint">Mật khẩu</string>
+    <string name="email_hint">Thư điện tử</string>
+
+    <string name="netra_autorefractor">NETRA KHÚC XẠ TỰ ĐỘNG</string>
+    <string name="clean_and_dim">Lau sạch màng che mắt và \nlàm tối phòng.</string>
+    <string name="ready_to_begin">CHUẨN BỊ BẮT ĐẦU</string>
+    <string name="press_confirm_insert_and_hand">Nhấn nút, chèn điện thoại vào NETRA và đưa nó qua cho người sử dụng.</string>
+    <string name="latest_readings">NHỮNG BẢN ĐỌC CUỐI CÙNG</string>
+    <string name="repeat_8_times_per_eye">SỬA CHỮA KIỂM TRA UNTIL</string>
+    <string name="find_with_brightness">Tìm bằng nút vặn sáng nhất</string>
+    <string name="align_with_alignment">So bằng nút vặn so hàng</string>
+    <string name="record_by_pressing_confirm">Ghi lại bằng việc nhấn nút xác nhận</string>
+    <string name="right_eye">PHẢI</string>
+    <string name="left_eye">TRÁI</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">ADD</string>
+    <string name="confidence_label">CONF</string>
+    <string name="visual_acuity_label">ACUITY</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find">USE DÙNG NÚT VẶN BÊN PHẢI \n ĐỂ TÌM CÁC HÀNG</string>
+    <string name="notes">Các ghi chú</string>
+    <string name="pd_label2">PD: </string>
+
+    <string name="menu_home">Trang chủ</string>
+    <string name="menu_visits">Các lượt ghé thăm (Premium)</string>
+    <string name="menu_customers">Khách hàng (Premium)</string>
+    <string name="menu_measurements">Các bài đọc</string>
+    <string name="menu_support">Hỗ trợ</string>
+    <string name="menu_buy">Đặt mua Thiết bị</string>
+    <string name="menu_settings">Các bộ phận cài đặt</string>
+    <string name="menu_signoff">Thoát Ra Ngoài </string>
+    <string name="netra_autorefractor2">EyeNetra Khúc XạTự Động</string>
+    <string name="netra_results">NETRA RESULTS</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">KHÁCH HÀNG</string>
+
+    <string name="nepali">Tiếng Nê Pan</string>
+    <string name="adjust_refraction">Điều chỉnh Khúc Xạ</string>
+    <string name="adjust_pd">Điều chỉnh PD</string>
+    <string name="subj_refraction">KHÚC XẠ MANG TÍNH CHỦ QUAN</string>
+
+    <string name="back_home">TRANG CHỦ</string>
+
+    <string name="rounding">Làm tròn số</string>
+
+    <string name="rounding_powers_title">Làm tròn số SPH and CYL</string>
+    <string name="rounding_powers_desc">You Bạn có thể chọn làm tròn số các kết quả đến gần như 0.25D hoặc giữ nguyên nó ở 0.01D.</string>
+
+    <string name="login_or_create_account">Đăng nhập hoặc tạo một tài khoản</string>
+
+    <string name="patient">Bệnh nhân</string>
+    <string name="app">Ứng dụng</string>
+    <string name="showNumbers">Các con số bị mờ</string>
+    <string name="trainingAngles">Bước đào tạo</string>
+    <string name="acuity_label">Acuity</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Tiêu cực</string>
+    <string name="plus_cylinder">Tích cực</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Khối cầu</string>
+    <string name="display_results_as">TRƯNG BÀY CÁC KẾT QUẢ NHƯ </string>
+    <string name="language_uppercase">NGÔN NGỮ</string>
+    <string name="test_options">PHẦN KIỂM TRA KHÚC XẠ</string>
+    <string name="settings_header">CÁC BỘ PHẬN CÀI ĐẶT</string>
+    <string name="cylinder_label">Hình trụ</string>
+    <string name="suggested">Được đề nghị</string>
+
+    <string name="yes">Bật</string>
+    <string name="no">Tắt</string>
+
+    <string name="training_angles_title">Các Góc Độ cho việc Huấn Luyện</string>
+    <string name="training_angles_desc">Trong lúc hoạt động, NETRA sẽ trình diễn thêm 2 góc độ mà không cần ghi nhận lại các sự đo lường. \n\nĐiều này khá lý tưởng cho việc huấn luyện với ứng dụng của Chrome Cast. Bệnh nhân trình diễn việc huấn luyện trong khi nhìn vào TV và trình diễn các sự đo lường khi nhìn vào trong thiết bị.</string>
+
+    <string name="show_numbers_title">Các con số bị mờ </string>
+    <string name="show_numbers_desc">Các con số xuất hiện sau mỗi lần đo lường giúp bệnh nhân thư giãn mắt của họ, để tập trung nhìn xa hết mức có thể. \n\nKích hoạt đặc tính này để tăng sức mạnh cho việc quản lý điều chỉnh.</string>
+
+    <string name="play_icon_msg">Nhìn vào trong\nvà nhấn nút\nđể Khở Động.</string>
+
+    <string name="poor_results_title">Chắc chắn là Không tốt</string>
+    <string name="poor_results_desc">Bệnh nhân bị thiếu 2-3 lần đo chỉnh. Điều này thường xảy ra khi họ quên không điều chỉnh lại để nhìn thấy rõ các hàng, hoặc khi họ vẫn đang trong giai đoạn học hỏi việc làm thế nào để trình diễn phần kiểm tra khi anh ấy/chị ấy được bắt đầu. Làm ơn thử lại lần nữa. </string>
+    <string name="lousy_results_title">Chắc chắn là rất Tồi tệ</string>
+    <string name="lousy_results_desc">Các việc căn chỉnh rất khác nhau cho mỗi cá nhân. Bệnh nhân hoặc là không hiểu họ cần phải làm gì hoặc có thể có tình trạng sức khoẻ nhãn lực khác làm ảnh hưởng tới tầm nhìn của họ.</string>
+
+
+    <string name="dashboard_measurements">Các bài đọc</string>
+    <string name="dashboard_prescriptions">Đã chia sẻ</string>
+    <string name="dashboard_readytosync">Sẵn sàng đồng bộ hóa</string>
+
+</resources>
+
+

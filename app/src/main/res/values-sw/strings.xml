@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">Kuhusu</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">ANZA</string>
+
+    <string name="start_beginner">MAELEKEZO</string>
+    <string name="start_experienced">ANZA</string>
+
+    <string name="got_it">UMEPATIA</string>
+    <string name="insert_into_device">BOFYA HAPA\nHALAFU WEKA SIMU</string>
+    <string name="login">INGIA</string>
+
+    <string name="aligned">KUOANA</string>
+    <string name="found">SAWA, UMEZIPATA!</string>
+
+    <string name="signup">JISAJILI</string>
+    <string name="start_test">THIBITISHA</string>
+    <string name="restart_uppercase">ANZA TENA</string>
+    <string name="finish_uppercase">MALIZA</string>
+    <string name="finish_with_note_uppercase">ONGEZA DONDOO</string>
+    <string name="got_it_let_me_try">UMEPATIA! NAOMBA NIJARIBU</string>
+
+    <string name="restart_training">ANZA TENA MAFUNZO</string>
+    <string name="result_screen">MATOKEO</string>
+
+    <string name="navigation_drawer_open">Fungua mahali pa kukuongoza</string>
+    <string name="navigation_drawer_close">Funga mahali pa kukuongoza</string>
+    <string name="action_settings">Mipangilio</string>
+
+    <string name="not_online_title">Kifaa hakina mtandao</string>
+    <string name="not_online_desc">Tafadhali unganisha mtandao wa internet au data kwenye simu kabla ya kuingia au kujisajili</string>
+
+    <string name="missing_email">Anwani ya barua pepe inakosekana</string>
+    <string name="insert_valid_email">Ingiza anwani ya barua pepe inayohusika</string>
+    <string name="invalid_email_title">Anwani ya burua pepe isiyofaa</string>
+    <string name="email_format_is_invalid">Umbizo wa barua pepe usiofaa</string>
+    <string name="invalid_password">Neno siri lisilofaa</string>
+    <string name="insert_a_valid_password">Ingiza neno siri lenye alama nane, agalau herufi moja kubwa pamoja na tarakimu moja</string>
+    <string name="authenticating">Kuthibitisha...</string>
+    <string name="invalid_login_msg">Anwani ya barua pepe au neno siri siyo sahihi.</string>
+    <string name="login_invalid">Kuingia kwa makosa</string>
+    <string name="incomplete_sign_up">Kujisajili hakujakamilia</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+    <string name="confidence_great">Vizuri sana</string>
+    <string name="confidence_good">Vizuri</string>
+    <string name="confidence_poor">Vibaya</string>
+    <string name="confidence_very_poor">Vibaya sana</string>
+
+    <string name="add_note">Ongeza dondoo</string>
+    <string name="add_note_desc">Oanisha matokeo na utambulisho mfupi</string>
+    <string name="add_note_hint">Jina la mgonjwa</string>
+    <string name="age_hint">Umri</string>
+
+    <string name="error_battery_below_20_title">Betri iko chini ya 20%</string>
+    <string name="error_battery_below_20_desc">Simu hupoteza uwezo wa utendaji pamoja na mwanga kupungua chaji inapokuwa chini ya 20%. Hii inaadhiri usahihi wa matokeo. Tafadhali chaji simu yako.</string>
+
+    <string name="off_line_title">Kifaa hakipo kwenye mtandao</string>
+    <string name="off_line_desc">Jiunge kwenye mtandao kupokea taarifa mpya, msaada wa haraka na kuona taarifa zako katika tovuti ya maarifa.</string>
+
+    <string name="update_title">Toleo jipya liko tayari</string>
+    <string name="update_desc">Tumia programu ya Play Store kupakua programu mpya. Tunatoa toleo jipya kila baada ya wiki mbili</string>
+
+    <string name="camera_locked_title">Kamera imefungwa</string>
+    <string name="camera_locked_desc">Kamera inatumika na program nyingine kwa sasa. Tafadhali funga programu zingine zote au washa simu tena.</string>
+
+    <string name="use_left_knob_to_align_lines">TUMIA KIDUDE CHA KUSHOTO\nKUOANISHA MISTARI</string>
+    <string name="ok_they_are_aligned">SAWA, IMEOANA.</string>
+    <string name="press_confirm_to_record_measurement">BONYEZA KIDUDE CHA\n KUTHIBITISHA KUREKODI VIPIMO</string>
+    <string name="great_confirm">VIZURI SANA! THIBITISHA</string>
+    <string name="login_to_see_your_account">Ingia kuona account yako</string>
+    <string name="login_required">Usajili unahitajika ili kuingia</string>
+    <string name="default_organization_name">Mafunzo yangu ya kutunza macho</string>
+
+    <string name="save">Hifadhi</string>
+    <string name="cancel">Katisha</string>
+    <string name="ok">SAWA</string>
+
+    <string name="requesting_token">Cheti kinaombwa...</string>
+    <string name="number_prefix_reading_card_empty_note">Ukaguzi</string>
+    <string name="today">LEO</string>
+    <string name="yesterday">JANA</string>
+    <string name="cancel_test">KATISHA</string>
+    <string name="finish_test">TAYARI</string>
+    <string name="training">MAFUNZO</string>
+    <string name="insert_into_device_test">Chomeka kwenye kifaa\n au bofya RUDI kukatisha</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Chomeka kwenye kifaa kuendelea \n au bofya RUDI kuona matokeo ya PD</string>
+    <string name="welcome">Karibu</string>
+    <string name="password_hint">Nenosiri</string>
+    <string name="email_hint">Barua pepe</string>
+
+    <string name="netra_autorefractor">NETRA AUTO-REFRACTOR</string>
+    <string name="clean_and_dim">Safisha kinga macho halafu \nfifisha mwanga chumbani.</string>
+    <string name="ready_to_begin">TAYARI KUANZA</string>
+    <string name="press_confirm_insert_and_hand">Bonyeza kidude, ingiza simu kwenye NETRA na kisha mpe mtumiaji.</string>
+    <string name="latest_readings">VIPIMO VYA MWISHO</string>
+    <string name="repeat_8_times_per_eye">RUDIA MARA 8 KWA JICHO</string>
+    <string name="find_with_brightness">Tafuta kutumia kidude cha Brightness</string>
+    <string name="align_with_alignment">Oanisha kwa kutumia kidude cha Alignment</string>
+    <string name="record_by_pressing_confirm">Rekodi kwa kutumia kidude cha kuthibitisha</string>
+    <string name="right_eye">KULIA</string>
+    <string name="left_eye">LUSHOTO</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">ADD</string>
+    <string name="confidence_label">CONF</string>
+    <string name="visual_acuity_label">UKALI</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find">TUMIA KIDUDE CHA KULIA \n KUTAFUTA MISTARI</string>
+    <string name="notes">Dondoo</string>
+    <string name="pd_label2">PD:</string>
+
+    <string name="menu_home">Nyumbani</string>
+    <string name="menu_visits">Ziara</string>
+    <string name="menu_customers">Wateja (Premium)</string>
+    <string name="menu_measurements">Vipimo</string>
+    <string name="menu_support">Msaada</string>
+    <string name="menu_buy">Agiza kifaa</string>
+    <string name="menu_settings">Mipangilio</string>
+    <string name="menu_signoff">Ondoka</string>
+    <string name="netra_autorefractor2">EyeNetra Auto-Refractor</string>
+    <string name="netra_results">Matokeo ya NETRA</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">WATEJA</string>
+
+    <string name="adjust_refraction">Urekebisho wa vipimo</string>
+    <string name="adjust_pd">Urekebisho wa PD</string>
+    <string name="subj_refraction">SUBJECTIVE REFRACTION</string>
+
+    <string name="back_home">NYUMBANI</string>
+
+    <string name="rounding">Kukadiria</string>
+
+    <string name="rounding_powers_title">Kukadiria SPH na CYL</string>
+    <string name="rounding_powers_desc">Unaweza kuamua kukadiria matokeo kufikia 0.25D iliyoko karibu au kuyaacha halisi kwa 0.01D.</string>
+
+    <string name="patient">Mgonjwa</string>
+    <string name="app">Programu</string>
+    <string name="showNumbers">Ukungu Namba</string>
+    <string name="trainingAngles">Mafunzo Pembe</string>
+    <string name="acuity_label">Ukali</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Toa</string>
+    <string name="plus_cylinder">Pamoja</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Mviringo</string>
+    <string name="display_results_as">ONYESHA MATOKEO KAMA</string>
+    <string name="language_uppercase">LUGHA</string>
+    <string name="test_options">REFRACTIVE TEST</string>
+    <string name="settings_header">MIPANGILIO</string>
+    <string name="cylinder_label">Silinda</string>
+    <string name="suggested">Pendekezwa</string>
+
+    <string name="yes">ON</string>
+    <string name="no">OFF</string>
+
+    <string name="training_angles_title">Pembe za kujifunzia</string>
+    <string name="training_angles_desc">Ikiwezeshwa, NETRA itafanya vipimo kwa pembe mbili za ziada bila kurekodi. Hii ni bora kwa mafunzo yanayotumia programu ya Chrome Cast. Mgonjwa anafanya mafunzo akiangalia runinga na vipimo akiangalia ndani ya kifaa.</string>
+
+    <string name="show_numbers_title">Ukungu wa namba</string>
+    <string name="show_numbers_desc">Tarakimu zinazotokea baada ya kila kipimo, zinamsaidia mgonjwa kupumzisha macho kwa kuangaza mbali awezavyo. Wezesha huduma hii kuimarisha uwezo wa kuifadhi na kuhimili</string>
+
+    <string name="play_icon_msg">Angalia ndani \n kisha bofya kitufi ili kuanza.</string>
+
+    <string name="poor_results_title">Ushupavu ni mbaya</string>
+    <string name="poor_results_desc">Mgonjwa amekosea Alignment 2 au 3. Hii hutokea mtu anaposahau kujiweka vizuri ili kuona mistari au mwanzoni anapokuwa ameanza tu kufanya vipimo. Tafadhali jaribu tena.</string>
+    <string name="lousy_results_title">Ushupavu ni mbaya sana</string>
+    <string name="lousy_results_desc">Vipimo vinatofautiana sana. Mgonja hakuelewa alichotakiwa kufanya au ana ugonjwa mwingine unaomzuia kuona vizuri.</string>
+    <string name="date_of_birth">Tarehe ya kuzaliwa</string>
+    <string name="back_uppercase">FUTA</string>
+    <string name="prescribe_uppercase">KUAGIZA</string>
+    <string name="prescribing">KUANDIKA</string>
+    <string name="the_lines_rotate">MASHARA YA LINES YA MFANO MASHYA</string>
+
+</resources>
+

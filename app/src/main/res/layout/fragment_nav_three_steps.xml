@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <TextView
+        android:id="@+id/instructions_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        style="@style/Header"
+        android:layout_marginTop="16dp"
+        android:text="@string/repeat_8_times_per_eye"
+        android:layout_marginBottom="16dp" />
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/instructions_1"
+        android:id="@+id/instructions_group"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:columnCount="2"
+        android:rowCount="3"
+        android:useDefaultMargins="true"
+        android:paddingBottom="8dp">
+
+        <ImageButton
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/imFind"
+            android:layout_gravity="center"
+            android:background="@drawable/bullet_1" />
+
+        <TextView
+            android:id="@+id/instructions_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/List"
+            android:text="@string/find_with_brightness"
+            android:layout_marginLeft="8dp"
+            android:layout_gravity="center_vertical" />
+
+        <ImageButton
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/imAlign"
+            android:layout_gravity="center"
+            android:background="@drawable/bullet_2" />
+
+        <TextView
+            android:id="@+id/instructions_3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/List"
+            android:text="@string/align_with_alignment"
+            android:layout_marginLeft="8dp"
+
+            android:layout_gravity="center_vertical" />
+
+        <ImageButton
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:id="@+id/imComfirm"
+            android:layout_gravity="center"
+            android:background="@drawable/bullet_3" />
+
+        <TextView
+            android:id="@+id/instructions_4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            style="@style/List"
+            android:text="@string/record_by_pressing_confirm"
+            android:layout_marginLeft="8dp"
+            android:layout_gravity="center_vertical" />
+    </GridLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_below="@id/instructions_group"
+        android:layout_above="@+id/start_button">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/step_netra_1"
+            android:id="@+id/imStep1"
+            android:padding="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/step_netra_2"
+            android:id="@+id/imStep2"
+            android:visibility="gone"
+            android:padding="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/step_netra_3"
+            android:id="@+id/imStep3"
+            android:visibility="gone"
+            android:padding="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/step_netra_4"
+            android:id="@+id/imStep4"
+            android:visibility="gone"
+            android:padding="16dp" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:src="@drawable/step_netra_5"
+            android:id="@+id/imStep5"
+            android:visibility="gone"
+            android:padding="16dp" />
+
+    </RelativeLayout>
+
+
+    <Button
+        android:id="@+id/start_button"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_size"
+        android:layout_alignParentBottom="true"
+        android:text="@string/got_it_let_me_try"
+        style="@style/Header"
+        android:layout_margin="16dp"
+        android:textColor="@color/btn_next_text"
+        android:background="@drawable/btn_next" />
+
+
+</RelativeLayout>

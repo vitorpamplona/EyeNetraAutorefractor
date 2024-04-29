@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">Über</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">START</string>
+
+    <string name="start_beginner">TUTORIAL</string>
+    <string name="start_experienced">START</string>
+
+    <string name="got_it">VERSTANDEN</string>
+    <string name="insert_into_device">HIER DRÜCKEN\nUND HANDY EINLEGEN</string>
+    <string name="login">ANMELDEN</string>
+
+    <string name="aligned">AUSGERICHTET</string>
+    <string name="found">ALLES KLAR, GEFUNDEN!</string>
+
+    <string name="signup">REGISTRIEREN</string>
+    <string name="start_test">BESTÄTIGEN</string>
+    <string name="restart_uppercase">NEUSTART</string>
+    <string name="finish_uppercase">FERTIG</string>
+    <string name="finish_with_note_uppercase">NOTIZ HINZUFÜGEN</string>
+    <string name="got_it_let_me_try">VERSTANDEN! JETZT AUSPROBIEREN</string>
+
+    <string name="restart_training">TRAINING NEU STARTEN</string>
+    <string name="result_screen">ERGEBNISSE</string>
+
+    <string name="navigation_drawer_open">Navigationsleiste öffnen</string>
+    <string name="navigation_drawer_close">Navigationsleiste schließen</string>
+    <string name="action_settings">Einstellungen</string>
+
+    <string name="not_online_title">Das Gerät ist offline</string>
+    <string name="not_online_desc">Bitte stellen Sie eine WLAN- oder Datenverbindung her, bevor Sie sich anmelden oder registrieren</string>
+
+    <string name="missing_email">E-Mail-Adresse fehlt</string>
+    <string name="insert_valid_email">Geben Sie eine gültige E-Mail-Adresse ein</string>
+    <string name="invalid_email_title">Ungültige E-Mail-Adresse</string>
+    <string name="email_format_is_invalid">E-Mail-Format ungültig</string>
+    <string name="invalid_password">Ungültiges Passwort</string>
+    <string name="insert_a_valid_password">Geben Sie ein Passwort aus 8 Buchstaben und Zahlen ein</string>
+    <string name="authenticating">Authentifizieren...</string>
+    <string name="invalid_login_msg">E-Mail-Adresse oder Passwort falsch</string>
+    <string name="login_invalid">Anmeldedaten ungültig</string>
+    <string name="incomplete_sign_up">Unvollständige Registrierung</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+    <string name="confidence_great">Großartig</string>
+    <string name="confidence_good">Gut</string>
+    <string name="confidence_poor">Schlecht</string>
+    <string name="confidence_very_poor">Sehr schlecht</string>
+
+    <string name="add_note">Notiz hinzufügen</string>
+    <string name="add_note_desc">Ergebnisse mit einer Kurzbezeichnung versehen</string>
+    <string name="add_note_hint">Name des Patienten</string>
+
+    <string name="error_battery_below_20_title">Akkustand unter 20 %</string>
+    <string name="error_battery_below_20_desc">Android verringert die Rechenleistung und die Bildschirmhelligkeit, wenn der Akkustand unter 20 % liegt. Dies beeinträchtigt die Genauigkeit der Ergebnisse. Bitte laden Sie Ihr Gerät auf.</string>
+
+    <string name="off_line_title">Das Gerät ist offline</string>
+    <string name="off_line_desc">Stellen Sie eine Internetverbindung her, um Updates und Echtzeit-Support zu erhalten und Ihre Daten im Insight-Portal zu visualisieren.</string>
+
+    <string name="camera_locked_title">Die Kamera ist gesperrt</string>
+    <string name="camera_locked_desc">Die Kamera wird zur Zeit von einer anderen Anwendung verwendet. Schließen Sie alle anderen Anwendungen oder starten Sie das Handy neu.</string>
+
+    <string name="use_left_knob_to_align_lines">RICHTEN SIE DIE LINIEN MIT\nDEM LINKEN KNOPF AUS</string>
+    <string name="ok_they_are_aligned">OK, SIE SIND AUSGERICHTET.</string>
+    <string name="press_confirm_to_record_measurement">DRÜCKEN SIE BESTÄTIGEN,\nUM DIE MESSUNG AUFZUZEICHNEN</string>
+
+    <string name="you_will_perform_this_test_yourself">SIE HABEN DIE KONTROLLE ÜBER DEN TEST</string>
+    <string name="sit_comfortably">SETZTEN SIE SICH BEQUEM UND\nSTÜTZEN IHRE ELLENBOGEN AUF EINEM TISCH AB</string>
+    <string name="learn_controls">LERNE DIE REGELN</string>
+
+    <string name="when_you_see_a_checkmark_you_are_done">FAHREN SIE FORT, BIS SIE EIN BLAUES HÄKCHEN SEHEN</string>
+
+    <string name="great_confirm">TOLL! BESTÄTIGEN</string>
+    <string name="login_to_see_your_account">Melden Sie sich an, um Ihr Konto zu betrachten</string>
+    <string name="login_required">Anmeldung erforderlich</string>
+    <string name="default_organization_name">Meine Augenpflege-Praxis</string>
+
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="ok">OK</string>
+
+    <string name="requesting_token">Token wird angefordert...</string>
+    <string name="number_prefix_reading_card_empty_note">Prüfung</string>
+    <string name="today">HEUTE</string>
+    <string name="yesterday">GESTERN</string>
+    <string name="cancel_test">ABBRECHEN</string>
+    <string name="finish_test">ALLES BEREIT</string>
+    <string name="insert_into_device_test">In Gerät einlegen oder\nZurück drücken, um den Test abzubrechen</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Zum Fortfahren in Gerät einlegen\noder Zurück drücken, um die PD-Ergebnisse anzuzeigen</string>
+    <string name="welcome">Willkommen</string>
+    <string name="password_hint">Passwort</string>
+    <string name="email_hint">E-Mail-Adresse</string>
+
+    <string name="netra_autorefractor">NETRA AUTO-REFRAKTOR</string>
+    <string name="clean_and_dim">Reinigen Sie die Augenmuschel\nund verdunkeln Sie den Raum</string>
+    <string name="ready_to_begin">BEREIT</string>
+    <string name="press_confirm_insert_and_hand">Drücken Sie die Taste, legen Sie das Telefon in NETRA ein und geben Sie es dem Benutzer.</string>
+    <string name="latest_readings">AKTUELLE MESSWERTE</string>
+    <string name="repeat_8_times_per_eye">JE AUGE 8 MAL WIEDERHOLEN</string>
+    <string name="find_with_brightness">Mit dem Helligkeitsregler suchen</string>
+    <string name="align_with_alignment">Mit dem Ausrichtungsknopf ausrichten</string>
+    <string name="record_by_pressing_confirm">Durch Drücken der Bestätigungstaste aufzeichnen</string>
+    <string name="right_eye">RECHTS</string>
+    <string name="left_eye">LINKS</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">ACHSE</string>
+    <string name="confidence_label">BEST</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find">SUCHEN SIE DIE LINIEN\nMIT DEM RECHTEN KNOPF</string>
+    <string name="notes">Notizen</string>
+    <string name="pd_label2">PD:</string>
+
+    <string name="menu_home">Start</string>
+    <string name="menu_visits">Besuche (Premium)</string>
+    <string name="menu_customers">Kunden (Premium)</string>
+    <string name="menu_measurements">Messwerte</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_signoff">Abmelden</string>
+    <string name="netra_autorefractor2">EyeNetra Auto-Refraktor</string>
+    <string name="netra_results">NETRA-ERGEBNISSE</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">KUNDEN</string>
+
+    <string name="adjust_refraction">Refraktion anpassen</string>
+    <string name="subj_refraction">SUBJEKTIVE REFRAKTION</string>
+    <string name="acuity_label">Sehstärke</string>
+    <string name="age_hint">Alter</string>
+
+    <string name="patient">Geduldig</string>
+    <string name="app">App</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Minus</string>
+    <string name="plus_cylinder">Plus</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Sphäre</string>
+    <string name="display_results_as">ERGEBNISSE IN</string>
+    <string name="language_uppercase">SPRACHE</string>
+    <string name="settings_header">EINSTELLUNGEN</string>
+    <string name="cylinder_label">Zylinder</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="back_home">START</string>
+    <string name="Thats_it">OK, VERSTANDEN</string>
+    <string name="prescribe_uppercase">TEILEN</string>
+    <string name="prescribing">TEILEN</string>
+    <string name="the_lines_rotate">DIE LINIEN DREHEN FÜR EINE NEUE MESSUNG</string>
+    <string name="date_of_birth">Geburtsdatum</string>
+    <string name="visual_acuity_label"></string>
+    <string name="adjust_pd">Einstellen der PD</string>
+
+</resources>

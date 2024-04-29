@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Netra</string>
+    <string name="about">यस बारे</string>
+    <string name="about_version"> यस बारे </string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">शुरु</string>
+
+    <string name="start_beginner">उदाहरण</string>
+    <string name="start_experienced">सुरु</string>
+
+    <string name="got_it">भयो</string>
+    <string name="insert_into_device">यहा थिच्नुहोस र फोन लोड गरनुहोस ।</string>
+    <string name="login">लग ईन</string>
+
+    <string name="aligned">बराबर छ ।</string>
+    <string name="found">भेटियॊ</string>
+
+    <string name="signup">साइन अप गरनुहोस </string>
+    <string name="start_test">कनफरम गरनुहोस</string>
+    <string name="restart_uppercase">पुन शुरु</string>
+    <string name="finish_uppercase">सकियो</string>
+    <string name="finish_with_note_uppercase">नोट थपनुहोस</string>
+    <string name="got_it_let_me_try">भयो । ल म प्रयास गरछु</string>
+
+    <string name="restart_training">ट्रेनिङ पुन शुरु</string>
+    <string name="result_screen">नतिजा</string>
+
+    <string name="navigation_drawer_open">नेभिगेसन डरवेर शुरु</string>
+    <string name="navigation_drawer_close"> नेभिगेसन डरवेर बन्द</string>
+    <string name="action_settings">सेटिङस</string>
+    <string name="not_online_title">डिभाइस अफलाइन छ।</string>
+    <string name="not_online_desc">  लग ईन अथवा साइन अप गरनु अगाडि वाइफाइ अथवा मोबाइल डाटा अन गरनुहोस </string>
+    <string name="missing_email"> इमेल भेटिएन</string>
+    <string name="insert_valid_email">इमेल भरनुहोस </string>
+    <string name="invalid_email_title">इमेल मिलेन</string>
+    <string name="email_format_is_invalid">इमेल भरेको मिलेन</string>
+    <string name="invalid_password">पासवरड मिलेन</string>
+    <string name="insert_a_valid_password">आठ  को पासवरड कमतिमा एऊटा ठुलो मानेको र एउटा अंक </string>
+    <string name="authenticating">जारी हुँदै </string>
+    <string name="invalid_login_msg">ईमेल अथवा पासवरड मिलेन </string>
+    <string name="login_invalid">लग इन  मिलेन </string>
+    <string name="incomplete_sign_up">साइन अप अपुरो भयो </string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+    <string name="confidence_great">अत्ती उत्तम</string>
+    <string name="confidence_good"> उत्तम </string>
+    <string name="confidence_poor">खराब </string>
+    <string name="confidence_very_poor">धेरै खराब </string>
+
+    <string name="add_note">नोट थप्नुहोस् </string>
+    <string name="add_note_desc">नतिजा लाई पहिचान दिनुहोस् </string>
+    <string name="add_note_hint">"बिरामी को नाम "</string>
+    <string name="age_hint">उमेर </string>
+
+    <string name="error_battery_below_20_title">ब्याटरी २० % भन्दा तल छ </string>
+    <string name="error_battery_below_20_desc">ब्याटरी २० % भन्दा तल भयो भने मोबाईल को प्रोसेस्सोरले राम्रो काम गर्दैन । एस्ले नतिजा फरक आउन सक्छ ।  मोबाईल चारज गर्नुहोस्।.</string>
+
+    <string name="off_line_title">डिभाइस अफलाइन छ।</string>
+    <string name="off_line_desc">ईन्टरनेटमा जोडेर आप्डेट र यहाँ को डाटा इनसआइट पोर्टलमा हेर्नु होस्  </string>
+
+    <string name="camera_locked_title">क्यामरा लक छ ।  </string>
+    <string name="camera_locked_desc">क्यामरालाई आर्को अप्प ले प्रयोग गर्दै छ । अरु अप्प बन्द गर्नुहोस् अथवा फोन पुन सुरु गर्नुहोस् ।  </string>
+
+    <string name="use_left_knob_to_align_lines">लाइन सिधा गर्न देब्रे नब थिच्नुहोस्</string>
+    <string name="ok_they_are_aligned">ठीक छ सिधा भयो.</string>
+    <string name="press_confirm_to_record_measurement">नपाई रिकड गर्न कन्फर्म  बटन थिच्नुहोस्</string>
+    <string name="great_confirm">ठीक छ! कन्फर्म </string>
+    <string name="login_to_see_your_account"> एकाउन्ट हेर्न  लग इन गर्नुहोस् </string>
+    <string name="login_required"> लग इन आवश्यक छ </string>
+    <string name="default_organization_name"> मेरो आँखा जाँच प्र्याक्टिस </string>
+
+    <string name="save"> सेभ </string>
+    <string name="cancel"> बदर </string>
+    <string name="ok"> ठीक छ </string>
+
+    <string name="requesting_token"> टोकन अनुरोध गरिदैं...</string>
+    <string name="number_prefix_reading_card_empty_note"> जाँच </string>
+    <string name="today"> आज </string>
+    <string name="yesterday"> हिजो </string>
+    <string name="cancel_test"> बदर </string>
+    <string name="finish_test">ALL SET</string>
+    <string name="insert_into_device_test"> इन्सट गर्नुहोस् वा जाँच बदर गर्न ब्याक बटन थिच्नुहोस् </string>
+    <string name="insert_into_device_or_back_to_see_PD_results"> इन्सट गर्नुहोस् वा पि डि को नतिजा हेर्न ब्याक बटन थिच्नुहोस् </string>
+    <string name="welcome"> स्वागतम </string>
+    <string name="password_hint"> पासवड </string>
+    <string name="email_hint"> ई- मेल </string>
+
+    <string name="netra_autorefractor"> नेत्र अटो - रिफ्राक्टर </string>
+    <string name="clean_and_dim">आइ शिल्ड सफा गर्नुहोस् र कोठा को बत्ती मधुरो गर्नुहोस्.</string>
+    <string name="ready_to_begin"> शुरु गर्न तयार </string>
+    <string name="press_confirm_insert_and_hand"> बटन थिच्नुहोस् र नेत्र इन्सर्ट गर्नुहोस् र प्रयोगकर्ता लाई दिनुहोस् </string>
+    <string name="latest_readings"> पछील्लो नपाई </string>
+    <string name="repeat_8_times_per_eye"> प्रत्यक  आँखा मा आठ पटक दोहोर्याउनुहोस् </string>
+    <string name="find_with_brightness"> उज्यालो को नब पत्ता लगाउनुहोस् </string>
+    <string name="align_with_alignment"> सिधा गर्ने नब सित सिधा राख्नुहोस् </string>
+    <string name="record_by_pressing_confirm"> रिकर्ड गर्न कन्फर्म बटन थिच्नुहोस् </string>
+    <string name="right_eye"> दाहिने आँखा </string>
+    <string name="left_eye"> देब्रे आँखा </string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">ADD</string>
+    <string name="confidence_label">CONF</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find"> लाइन पत्त लगाउन दाहिने नब प्रयोग गर्नुहोस् </string>
+    <string name="notes"> नोट </string>
+    <string name="pd_label2">PD: </string>
+
+    <string name="menu_home"> घर </string>
+    <string name="menu_measurements">नतिजा </string>
+    <string name="menu_support"> सपोर्ट </string>
+    <string name="menu_settings"> सेटिङ्स </string>
+    <string name="menu_signoff"> साइन अफ </string>
+    <string name="netra_autorefractor2">EyeNetra Auto-Refractor</string>
+    <string name="netra_results"> नेत्र नतिजा </string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">CUSTOMERS</string>
+
+    <string name="adjust_refraction">Adjusting Refraction</string>
+    <string name="adjust_pd">Adjusting PD</string>
+    <string name="subj_refraction">SUBJECTIVE REFRACTION</string>
+
+    <string name="back_home">HOME</string>
+
+    <string name="patient"> बिरामी </string>
+    <string name="app"> याप </string>
+    <string name="acuity_label"> दृष्टि </string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">माइनस </string>
+    <string name="plus_cylinder">प्लस </string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere"> स्फेर</string>
+    <string name="display_results_as">नतिजा देखाउने तरिका । </string>
+    <string name="language_uppercase">भाषा </string>
+    <string name="settings_header">सेटीङस </string>
+    <string name="cylinder_label">सिलिनडर </string>
+    <string name="suggested"> प्रस्तावित </string>
+    <string name="Thats_it">ठीक छ, बुझे</string>
+    <string name="prescribe_uppercase">सल्लाह दिन्छन्</string>
+    <string name="prescribing">निर्धारित</string>
+    <string name="the_lines_rotate">लाइनहरु नयाँ मापन लागि घुम्ने</string>
+    <string name="date_of_birth">जन्म मिति</string>
+</resources>

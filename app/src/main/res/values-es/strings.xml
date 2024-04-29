@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">Acerca de</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v %2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">COMENZAR</string>
+
+    <string name="start_beginner">TUTORIAL</string>
+    <string name="start_experienced">COMENZAR</string>
+
+    <string name="got_it">LO TENGO</string>
+    <string name="insert_into_device">PRESIONE AQUÍ\nE INSERTE EL TELÉFONO</string>
+    <string name="login">INICIAR SESIÓN</string>
+
+    <string name="aligned">ALINEADO</string>
+    <string name="found">¡LISTO, ENCONTRADAS!</string>
+
+    <string name="signup">REGISTRAR</string>
+    <string name="start_test">CONFIRMAR</string>
+    <string name="restart_uppercase">REINICIAR</string>
+    <string name="finish_uppercase">SALIR</string>
+    <string name="finish_with_note_uppercase">AÑADIR NOTA</string>
+    <string name="got_it_let_me_try">¡LO TENGO! DÉJEME INTENTARLO</string>
+
+    <string name="restart_training">REINICIAR ENTRENAMIENTO</string>
+    <string name="result_screen">RESULTADOS</string>
+
+    <string name="navigation_drawer_open">Abra cajón de navegación</string>
+    <string name="navigation_drawer_close">Cerrar cajón de navegación</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="missing_email">Falta el correo electrónico</string>
+    <string name="insert_valid_email">Introduzca un correo electrónico válido</string>
+    <string name="invalid_email_title">Correo electrónico inválido</string>
+    <string name="email_format_is_invalid">Formato de correo electrónico inválido</string>
+    <string name="invalid_password">Contraseña invalida</string>
+    <string name="insert_a_valid_password">Introduzca una contraseña que contenga 8 letras y números</string>
+    <string name="authenticating">Autenticando...</string>
+    <string name="invalid_login_msg">Correo electrónico o contraseña incorrecta</string>
+    <string name="login_invalid">Inicio de sesión inválido</string>
+    <string name="incomplete_sign_up">Inscripción incompleta</string>
+
+    <string name="minus_cyl_label">-CIL</string>
+    <string name="plus_cyl_label">+CIL</string>
+
+    <string name="confidence_great">Excelente</string>
+    <string name="confidence_good">Buena</string>
+    <string name="confidence_poor">Malo</string>
+    <string name="confidence_very_poor">Muy malo</string>
+
+    <string name="add_note">Añadir Nota</string>
+    <string name="add_note_desc">Etiquetar resultados con un identificador corto</string>
+    <string name="add_note_hint">Nombre del paciente</string>
+
+    <string name="error_battery_below_20_title">La batería está por debajo del 20%</string>
+    <string name="error_battery_below_20_desc">Android disminuye la potencia de procesamiento y el brillo de la pantalla cuando la batería está por debajo de 20%. Esto afecta a la exactitud de los resultados. Por favor cargue su dispositivo.</string>
+
+    <string name="use_left_knob_to_align_lines">USE EL MANDO IZQUIERDO\nPARA ALINEAR LAS LÍNEAS</string>
+    <string name="ok_they_are_aligned">LISTO, ESTÁN ALINEADAS.</string>
+    <string name="press_confirm_to_record_measurement">PRESIONE CONFIRMAR PARA\nREGISTRAR LA MEDICIÓN</string>
+    <string name="great_confirm">¡EXCELENTE! CONFIRME</string>
+    <string name="login_to_see_your_account">Inicie sesión para ver su cuenta</string>
+    <string name="login_required">Es necesario iniciar sesión</string>
+    <string name="default_organization_name">Mi Clínica</string>
+
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="ok">Aceptar</string>
+
+    <string name="requesting_token">Solicitando token...</string>
+    <string name="number_prefix_reading_card_empty_note">Examen</string>
+    <string name="today">HOY</string>
+    <string name="yesterday">AYER</string>
+    <string name="axis_label">EJE</string>
+    <string name="cancel_test">CANCELAR</string>
+    <string name="align_with_alignment">Alinear con el rueda de la alineación</string>
+    <string name="clean_and_dim">Limpie la máscara y oscurezca la sala</string>
+    <string name="confidence_label">CONF</string>
+    <string name="cyl">CIL</string>
+    <string name="email_hint">E-mail</string>
+    <string name="find_with_brightness">Encuentra con la rueda de brillo</string>
+    <string name="finish_test">PRONTO</string>
+    <string name="insert_into_device_test">Insertar en el dispositivo \n o pulse de nuevo a cancelar la prueba</string>
+    <string name="latest_readings">MEDIDAS NETRA</string>
+    <string name="left_eye">IZQDO</string>
+    <string name="menu_customers">Clientes (Prima)</string>
+    <string name="menu_home">Inicio</string>
+    <string name="menu_measurements">Medidas</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_signoff">Salir</string>
+    <string name="menu_support">Ayuda</string>
+    <string name="menu_visits">Visitas (Prima)</string>
+    <string name="netra_autorefractor">NETRA AUTO-REFRATOR</string>
+    <string name="notes">Notas</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="pd_label">DP</string>
+    <string name="pd_label2">DP: </string>
+    <string name="press_confirm_insert_and_hand">Pulse el botón, inserte el teléfono en NETRA y entregar al usuario.</string>
+    <string name="ready_to_begin">LISTO PARA COMENZAR</string>
+    <string name="record_by_pressing_confirm">Registre con el botón confirmar</string>
+    <string name="repeat_8_times_per_eye">REPETIR 8 VECES POR OJO</string>
+    <string name="right_eye">DCHO</string>
+    <string name="sph">ESF</string>
+    <string name="user_right_knob_to_find">USE EL MANDO DERECHO\nPARA ENCONTRAR LAS LÍNEAS</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="not_online_desc">Por favor, conectarse a su red Wi-Fi nuestros datos móviles antes de loging en o cantar hasta</string>
+    <string name="not_online_title">El dispositivo está fuera de línea</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Insertar en el dispositivo para continuar \n o presione hacia atrás para ver los resultados de la DP</string>
+    <string name="netra_autorefractor2">EyeNetra Auto-Refrator</string>
+    <string name="netra_results">RESULTADOS DO NETRA </string>
+    <string name="left_eye_short">OI</string>
+    <string name="right_eye_short">OD</string>
+    <string name="customers">CLIENTELA</string>
+    <string name="acuity_label">Agudeza</string>
+    <string name="age_hint">Años</string>
+    <string name="subj_refraction">REFRACCIÓN SUBJETIVA</string>
+
+
+    <string name="patient">Paciente</string>
+    <string name="app">App</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Negativo</string>
+    <string name="plus_cylinder">Positivo</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Esf+Cil</string>
+    <string name="sphere">Esférico</string>
+    <string name="display_results_as">MOSTRAR RESULTADOS EM</string>
+    <string name="language_uppercase">IDIOMA</string>
+    <string name="settings_header">AJUSTES</string>
+    <string name="cylinder_label">Cilindro</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">ADD</string>
+    <string name="suggested">Sugestión de</string>
+    <string name="back_home">INICIO</string>
+    <string name="adjust_refraction">Ajustando la Refracción</string>
+    <string name="adjust_pd">Ajustando la DP</string>
+    <string name="date_of_birth">Nacimiento</string>
+    <string name="lousy_results_desc">Los alineamientos son muy diferentes entre sí. El paciente no entendía lo que necesitaba hacer o podría tener otro problema de salud ocular que afectara su visión.</string>
+    <string name="lousy_results_title">La confianza es pésima</string>
+    <string name="menu_buy">Comprar Dispositivo</string>
+    <string name="no">No</string>
+    <string name="Thats_it">DE ACUERDO</string>
+    <string name="prescribe_uppercase">COMPARTIR</string>
+    <string name="prescribing">PRESCRIPCIÓN</string>
+    <string name="the_lines_rotate">LAS LÍNEAS ROTAN PARA UNA NUEVA MEDIDA</string>
+    <string name="learn_controls">APRENDE LOS CONTROLES</string>
+    <string name="login_or_create_account">Inicie sesión o cree una cuenta</string>
+    <string name="menu_updates">Buscar Actualizaciones</string>
+    <string name="no_not_now">No, no ahora</string>
+    <string name="poor_results_title">La precisión es pobre</string>
+    <string name="poor_results_desc">El paciente omitió 2 o 3 mediciones. Por lo general, esto sucede cuando el paciente no está seguro de cómo realizar el examen. Inténtalo de nuevo.</string>
+    <string name="repetitions">Repeticiones</string>
+    <string name="rounding">Redondeando a</string>
+    <string name="rounding_powers_desc">Puede elegir redondear los resultados al 0.25D más cercano o mantenerlo crudo en 0.01D.</string>
+    <string name="rounding_powers_title">Redondeo SPH y CYL</string>
+    <string name="send_prescription_to">Enviar receta a</string>
+    <string name="send_uppercase">ENVIAR</string>
+    <string name="showNumbers">Mostrar números</string>
+    <string name="show_numbers_desc">Muestra o no números para la relajación de la visión después de cada alineación</string>
+    <string name="sit_comfortably">SIENTE CÓMODAMENTE CON LOS CODOS APOYADOS</string>
+    <string name="test_options">PRUEBA REFRACTIVA</string>
+    <string name="training">ENTRENAMIENTO</string>
+    <string name="trainingAngles">Practica</string>
+    <string name="training_angles_desc">Cuando está activo, NETRA realizará 2 ángulos adicionales sin registrar mediciones.  Esto es ideal para entrenar con la aplicación Chrome Cast. El paciente realiza el entrenamiento mientras mira el televisor y las mediciones mientras mira dentro del dispositivo.</string>
+    <string name="training_angles_title">Ángulos adicionales para entrenamiento</string>
+    <string name="valid_for">Válido hasta</string>
+    <string name="valid_for_1year">1año</string>
+    <string name="valid_for_2years">2años</string>
+    <string name="valid_for_6months">6meses</string>
+    <string name="when_you_see_a_checkmark_you_are_done">CONTINÚE HASTA LA MARCA DE VERIFICACIÓN</string>
+    <string name="you_will_perform_this_test_yourself">CONTROLARÁS LA PRUEBA</string>
+    <string name="yes">Sí</string>
+    <string name="dashboard_measurements">Mediciones</string>
+    <string name="dashboard_prescriptions">Compartidos</string>
+    <string name="dashboard_readytosync">No Enviado</string>
+    <string name="back_uppercase">CANCELAR</string>
+    <string name="camera_locked_desc">La cámara está siendo utilizada actualmente por otra aplicación. Cierre todas las demás aplicaciones o simplemente reinicie el teléfono.</string>
+    <string name="camera_locked_title">La cámara está bloqueada</string>
+    <string name="off_line_desc">Conéctese a Internet para recibir actualizaciones, soporte en tiempo real y ver sus datos en el Portal Insight.</string>
+    <string name="off_line_title">Dispositivo fuera de línea</string>
+    <string name="permission_request_desc">Esta aplicación necesita su permiso para cambiar la configuración del sistema para asegurarse de que los resultados sean precisos. En la siguiente pantalla, habilite el permiso.</string>
+    <string name="permission_request_title">Permiso para cambiar la configuración del sistema</string>
+    <string name="play_icon_msg">Mirar dentro\ny presione el botón\npara comenzar.</string>
+    <string name="please_insert_spherical_powers_desc">Agregue los poderes esféricos para los ojos izquierdo y derecho, así como PD.</string>
+    <string name="please_insert_spherical_powers_title">Información faltante</string>
+    <string name="prescribe_again_uppercase">PRESCRIPCIÓN</string>
+    <string name="recommended_use">Uso recomendado</string>
+    <string name="recommended_use_computer">Computadora</string>
+    <string name="recommended_use_constant_wear">Constante</string>
+    <string name="recommended_use_distance_vision">Distancia</string>
+    <string name="recommended_use_driving">Conducir</string>
+    <string name="recommended_use_reading">Lectura</string>
+    <string name="recommended_use_smartphone">Móvil</string>
+    <string name="show_repetitions_desc">Elija la cantidad de puntos de datos que NETRA recopilará por examen.    Lo habitual son 18 repeticiones, pero si necesita una mayor precisión, elija 34 repeticiones</string>
+    <string name="show_repetitions_title">Numero de repeticiones</string>
+    <string name="show_numbers_title">Números</string>
+    <string name="setup_account">Informacion de cuenta</string>
+    <string name="sent_uppercase">ENVIADO</string>
+    <string name="unable_to_complete_request">No se puede completar la solicitud. Asegúrate de estar en línea. Envíenos un mensaje a info@eyenetra.com si el problema persiste.</string>
+    <string name="up_to_date_title">La aplicación está actualizada</string>
+    <string name="up_to_date_desc">Estás utilizando la versión más reciente de esta aplicación.</string>
+    <string name="update_desc">Use la aplicación Play Store para descargar la última versión de esta aplicación. Lanzamos una nueva versión cada dos semanas.</string>
+    <string name="update_title">Nueva versión disponible</string>
+    <string name="visual_acuity_label">AV</string>
+</resources>

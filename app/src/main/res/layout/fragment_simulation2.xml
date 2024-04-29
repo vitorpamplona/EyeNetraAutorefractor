@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background">
+
+    <AbsoluteLayout
+        android:id="@+id/background"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="0dp"
+        android:layout_alignParentTop="false">
+
+
+        <ImageView
+            android:layout_width="1050dp"
+            android:layout_height="616dp"
+            android:src="@drawable/netra_big"
+            android:id="@+id/imageNetra"
+            android:layout_x="-370dp"
+            android:layout_y="80dp"
+            android:scaleType="fitStart" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/blue_circle"
+            android:id="@+id/imageHighLight"
+            android:layout_x="139dp"
+            android:layout_y="335dp"
+            android:scaleType="fitStart" />
+    </AbsoluteLayout>
+
+    <TextView
+        android:id="@+id/instructions_1"
+        style="@style/Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F0F5F5F5"
+        android:text="@string/user_right_knob_to_find"
+        android:paddingTop="16dp" />
+
+    <TextView
+        android:id="@+id/instructions_2"
+        style="@style/Header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/instructions_1"
+        android:background="@drawable/background_instructions"
+        android:text="" />
+
+    <com.vitorpamplona.netra.activity.components.PreTestSimulation
+        android:id="@+id/simulation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/instructions_1"
+        android:padding="0dp"
+        android:layout_margin="16dp" />
+
+    <SeekBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBarFinderAligner"
+        android:layout_above="@+id/start_test_button"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="46dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginRight="46dp" />
+
+    <Button
+        android:id="@+id/start_test_button"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/button_size"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="16dp"
+        android:background="@drawable/btn_next"
+        android:text="@string/found"
+        android:textColor="@color/btn_next_text"
+        style="@style/Header" />
+
+
+</RelativeLayout>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">À propos</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">COMMENCER</string>
+
+    <string name="start_beginner">DÉBUTANT</string>
+    <string name="start_experienced">EXPERT</string>
+
+    <string name="got_it">J\'AI COMPRIS</string>
+    <string name="insert_into_device">APPUYEZ ICI\nET CHARGEZ LE PHONE</string>
+    <string name="login">ENTRER</string>
+
+    <string name="aligned">ALIGNÉ</string>
+    <string name="found">OK, JE LES AI TROUVÉ !</string>
+
+    <string name="signup">S\'INSCRIRE</string>
+    <string name="start_test">CONFIRMER</string>
+    <string name="restart_uppercase">REDÉMARRER</string>
+    <string name="finish_uppercase">TERMINER</string>
+    <string name="finish_with_note_uppercase">MARQUER</string>
+    <string name="got_it_let_me_try">J\'AI COMPRIS!\nLAISSEZ-MOI ESSAYER</string>
+
+    <string name="restart_training">RECOMMENCER LA FORMATION</string>
+    <string name="result_screen">RÉSULTATS</string>
+
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
+    <string name="action_settings">Paramètres</string>
+
+    <string name="missing_email">E-mail manquant</string>
+    <string name="insert_valid_email">Insérez un e-mail valide</string>
+    <string name="invalid_email_title">E-mail incorrect</string>
+    <string name="email_format_is_invalid">Format de l\'e-mail invalide</string>
+    <string name="invalid_password">Mot de passe incorrect</string>
+    <string name="insert_a_valid_password">Insérez un mot de passe contenant 8 lettres et chiffres</string>
+    <string name="authenticating">Authentification en cours...</string>
+    <string name="invalid_login_msg">E-mail ou mot de passe incorrect</string>
+    <string name="login_invalid">Connexion non valide</string>
+    <string name="incomplete_sign_up">Inscription incomplète</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="confidence_great">Excellent</string>
+    <string name="confidence_good">Bon</string>
+    <string name="confidence_poor">Faible</string>
+    <string name="confidence_very_poor">Mauvais</string>
+
+    <string name="add_note">Marquer</string>
+    <string name="add_note_desc">Marquer les résultats avec un identificateur court</string>
+    <string name="add_note_hint">Nom du patient</string>
+
+    <string name="error_battery_below_20_title">La batterie est inférieure à 20 %</string>
+    <string name="error_battery_below_20_desc">Android diminue la puissance de traitement et la luminosité de l’écran lorsqu’il reste moins de 20 % de batterie. Cela affecte la précision des résultats. Veuillez recharger votre appareil.</string>
+
+    <string name="use_left_knob_to_align_lines">UTILISEZ LE BOUTON GAUCHE\nPOUR ALIGNER LES LIGNES</string>
+    <string name="ok_they_are_aligned">OK, ELLES SONT ALIGNÉES</string>
+    <string name="press_confirm_to_record_measurement">APPUYEZ SUR CONFIRMER\nPOUR NOTER LES MESURES</string>
+    <string name="great_confirm">EXCELLENT! CONFIRMER</string>
+    <string name="login_to_see_your_account">Connectez-vous pour voir votre compte</string>
+    <string name="login_required">Connexion requise</string>
+    <string name="default_organization_name">Mon cabinet d\'ophtalmologie</string>
+
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="ok">OK</string>
+
+    <string name="requesting_token">Demande de jeton en cours...</string>
+    <string name="number_prefix_reading_card_empty_note">Examen</string>
+    <string name="today">AUJOURD\'HUI</string>
+    <string name="yesterday">HIER</string>
+    <string name="align_with_alignment">Alignez avec le bouton d\'alignement</string>
+    <string name="axis_label">AXE</string>
+    <string name="cancel_test">ANNULER</string>
+    <string name="clean_and_dim">Nettoyez la visière et la salle dim</string>
+    <string name="confidence_label">CONF</string>
+    <string name="cyl">CYL</string>
+    <string name="email_hint">E-mail</string>
+    <string name="find_with_brightness">Trouver avec le bouton de luminosité</string>
+    <string name="finish_test">FINI</string>
+    <string name="insert_into_device_test">Insérez dans le dispositif \n ou Appuyez sur Retour pour annuler le test</string>
+    <string name="latest_readings">DERNIÈRES MESURES</string>
+    <string name="left_eye">GAUCHE</string>
+    <string name="right_eye">DROIT</string>
+    <string name="pd_label">PD</string>
+    <string name="pd_label2">PD: </string>
+    <string name="password_hint">Mot</string>
+    <string name="netra_autorefractor">NETRA RÉFRACTOMÈTRE</string>
+    <string name="notes">Noter</string>
+    <string name="menu_customers">Clients (Prime)</string>
+    <string name="menu_measurements">Mesures</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="menu_signoff">Inscrivez-Off</string>
+    <string name="menu_support">Aider</string>
+    <string name="menu_visits">Visites (Prime)</string>
+    <string name="press_confirm_insert_and_hand">Appuyez sur le bouton, insérez le téléphone dans NETRA et le remettre à l\'utilisateur.</string>
+    <string name="ready_to_begin">PRÊT À COMMENCER</string>
+    <string name="record_by_pressing_confirm">Enregistrez appuyant sur le bouton de confirmation</string>
+    <string name="repeat_8_times_per_eye">REPEAT 8 FOIS PAR DES YEUX</string>
+    <string name="sph">SPH</string>
+    <string name="user_right_knob_to_find">UTILISEZ LE BOUTON DROIT \n POUR TROUVER LES LIGNES</string>
+    <string name="welcome">Bienvenu</string>
+    <string name="not_online_title">L\'appareil est hors ligne</string>
+    <string name="not_online_desc">S\'il vous plaît se connecter à votre réseau Wi-Fi nos données mobiles avant loging ou chanter jusqu\'à</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Insérez dans le dispositif de continuer \n ou sur Retour pour voir les résultats de la DP</string>
+    <string name="netra_autorefractor2">EyeNetra Autorefractometre</string>
+    <string name="netra_results">NETRA RESULTATS</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+    <string name="customers">CLIENTS</string>
+    <string name="acuity_label">Acuité</string>
+    <string name="age_hint">Âge</string>
+    <string name="subj_refraction">RÉFRACTION SUBJECTIVE</string>
+
+    <string name="patient">Patient</string>
+    <string name="app">App</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Négatif</string>
+    <string name="plus_cylinder">Positif</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Sphérique</string>
+    <string name="display_results_as">AFFICHER LES RESULTATS AS</string>
+    <string name="language_uppercase">LA LANGUE</string>
+    <string name="settings_header">PARAMÈTRES</string>
+    <string name="cylinder_label">Cylindre</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="back_home">HOME</string>
+    <string name="Thats_it">D\'ACCORD</string>
+    <string name="prescribe_uppercase">PARTAGER</string>
+    <string name="prescribing">PARTAGE</string>
+    <string name="the_lines_rotate">LES ROTES DES LIGNES POUR UNE NOUVELLE MESURE</string>
+    <string name="date_of_birth">Naissance</string>
+    <string name="adjust_refraction">Ajuster la réfraction</string>
+    <string name="adjust_pd">Réglage la PD</string>
+</resources>

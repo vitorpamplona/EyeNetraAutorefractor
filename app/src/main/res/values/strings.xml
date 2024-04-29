@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">About</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="google_app_id" translatable="false">718582653910</string>
+
+    <string name="start_uppercase">START</string>
+
+    <string name="start_beginner">TUTORIAL</string>
+    <string name="start_experienced">START</string>
+
+    <string name="Thats_it">THAT\'S IT!</string>
+    <string name="got_it">GOT IT</string>
+    <string name="insert_into_device">PRESS HERE\nAND LOAD PHONE</string>
+    <string name="login">LOGIN</string>
+
+    <string name="aligned">ALIGNED</string>
+    <string name="found">OK, FOUND THEM!</string>
+
+    <string name="signup">SIGN UP</string>
+    <string name="start_test">CONFIRM</string>
+    <string name="restart_uppercase">RESTART</string>
+    <string name="finish_uppercase">CLOSE</string>
+    <string name="prescribe_uppercase">SHARE</string>
+    <string name="prescribe_again_uppercase">RX INFO</string>
+    <string name="send_uppercase">SEND</string>
+    <string name="sent_uppercase">SENT</string>
+    <string name="back_uppercase">CANCEL</string>
+
+    <string name="finish_with_note_uppercase">ADD NOTE</string>
+    <string name="got_it_let_me_try">GOT IT! LET ME TRY</string>
+
+    <string name="restart_training">RESTART TRAINING</string>
+    <string name="result_screen">RESULTS</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="not_online_title">Device is Off-line</string>
+    <string name="not_online_desc">Please connect to Wi-Fi or a Mobile Hotspot.</string>
+
+    <string name="missing_email">Missing E-mail</string>
+    <string name="insert_valid_email">Insert a valid e-mail</string>
+    <string name="invalid_email_title">Invalid E-mail</string>
+    <string name="email_format_is_invalid">E-mail format invalid</string>
+    <string name="invalid_password">Invalid Password</string>
+    <string name="insert_a_valid_password">Password must contain 8 chars and at least 1 number</string>
+    <string name="authenticating">Authenticating...</string>
+    <string name="invalid_login_msg">Wrong e-mail or password. Make sure your app is up to date on the PlayStore and try again.</string>
+    <string name="login_invalid">Login Invalid</string>
+    <string name="incomplete_sign_up">Incomplete Sign Up</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+
+    <string name="confidence_great">Great</string>
+    <string name="confidence_good">Good</string>
+    <string name="confidence_poor">Poor</string>
+    <string name="confidence_very_poor">Lousy</string>
+
+    <string name="add_note">Add a Note</string>
+    <string name="add_note_desc">Tag results with a short identifier</string>
+    <string name="add_note_hint">Patient Name</string>
+    <string name="age_hint">Age</string>
+
+    <string name="error_battery_below_20_title">Battery is below 20%</string>
+    <string name="error_battery_below_20_desc">Android decreases processing power and display brightness when the battery is below 20%. This affects the accuracy of the results. Please charge your device.</string>
+
+    <string name="off_line_title">Device is Offline</string>
+    <string name="off_line_desc">Connect to the internet to receive updates, real-time support and to visualize your data on the Insight portal.</string>
+
+    <string name="up_to_date_title">The App is up to date</string>
+    <string name="up_to_date_desc">You are using the most recent version of this application.</string>
+
+    <string name="permission_request_title">Permission to Change System Settings</string>
+    <string name="permission_request_desc">This application needs your permission to change the system settings in order to make sure the results are accurate. On the next screen, please enable the permission. </string>
+
+    <string name="update_title">New Version is Available</string>
+    <string name="update_desc">Use the Play Store app to download the latest version of this application. We release a new version every other week. </string>
+
+    <string name="camera_locked_title">Camera is Locked</string>
+    <string name="camera_locked_desc">The camera is currently being used by another application. Please close all other applications or simply restart the phone.</string>
+
+    <string name="use_left_knob_to_align_lines">USE THE LEFT KNOB\nTO ALIGN THE LINES</string>
+    <string name="ok_they_are_aligned">OK, THEY\'RE ALIGNED.</string>
+    <string name="press_confirm_to_record_measurement">PRESS CONFIRM TO\nRECORD MEASUREMENT</string>
+
+    <string name="you_will_perform_this_test_yourself">YOU\'LL CONTROL THE TEST</string>
+    <string name="sit_comfortably">SIT COMFORTABLY WITH\nTHE ELBOWS SUPPORTED</string>
+    <string name="learn_controls">LEARN THE CONTROLS</string>
+
+
+    <string name="when_you_see_a_checkmark_you_are_done">CONTINUE UNTIL YOU SEE A BLUE CHECK MARK</string>
+
+    <string name="the_lines_rotate">THE LINES ROTATE\nFOR A NEW MEASUREMENT</string>
+    <string name="great_confirm">GREAT! CONFIRM</string>
+    <string name="login_to_see_your_account">Login to see your account</string>
+    <string name="login_required">Login required</string>
+    <string name="default_organization_name">My Eye Care Practice</string>
+
+    <string name="please_insert_spherical_powers_title">Missing Information</string>
+    <string name="please_insert_spherical_powers_desc">Please add the spherical powers for the Left and Right eyes as well as PD. </string>
+
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="setup_account">Visit Account</string>
+
+    <string name="requesting_token">Requesting Token...</string>
+    <string name="number_prefix_reading_card_empty_note">Exam</string>
+    <string name="today">TODAY</string>
+    <string name="yesterday">YESTERDAY</string>
+    <string name="cancel_test">CANCEL</string>
+    <string name="finish_test">ALL SET</string>
+    <string name="training">TRAINING</string>
+    <string name="insert_into_device_test">Insert into device \nor press back to cancel the test</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">Insert into device to continue \nor press back to see the PD results</string>
+    <string name="welcome">WELCOME</string>
+    <string name="login_or_create_account">Login or create an account</string>
+
+    <string name="password_hint">Password</string>
+    <string name="email_hint">E-mail</string>
+    <string name="patient_email_hint" translatable="false">patient@server.com</string>
+
+    <string name="send_prescription_to">Contact Info</string>
+    <string name="recommended_use">Recommended Use  </string>
+    <string name="valid_for">Expiration  </string>
+
+    <string name="valid_for_6months">6mo</string>
+    <string name="valid_for_1year">1yr</string>
+    <string name="valid_for_2years">2yrs</string>
+
+    <string name="prescribing">SHARING</string>
+
+    <string name="netra_autorefractor">NETRA AUTO-REFRACTOR</string>
+    <string name="clean_and_dim">Clean the eyeshield and \ndim the room.</string>
+    <string name="ready_to_begin">READY TO BEGIN</string>
+    <string name="press_confirm_insert_and_hand">Press button, insert the phone in NETRA and hand it to the user.</string>
+    <string name="latest_readings">NETRA READINGS</string>
+    <string name="repeat_8_times_per_eye">REPEAT UNTIL CHECK MARK</string>
+    <string name="find_with_brightness">Find with the brightness knob</string>
+    <string name="align_with_alignment">Align with the alignment knob</string>
+    <string name="record_by_pressing_confirm">Confirm by pressing the button</string>
+    <string name="right_eye">RIGHT</string>
+    <string name="left_eye">LEFT</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">ADD</string>
+    <string name="confidence_label">CONF</string>
+    <string name="visual_acuity_label">VA</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find">USE THE RIGHT KNOB \n TO FIND THE LINES</string>
+    <string name="notes">Notes</string>
+    <string name="pd_label2">PD: </string>
+    <string name="date_of_birth">Date of Birth</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_visits">Visits (Premium)</string>
+    <string name="menu_customers">Customers (Premium)</string>
+    <string name="menu_insight" translatable="false">Insight Portal</string>
+    <string name="menu_measurements">Readings</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_buy">Order Device</string>
+    <string name="menu_settings">App Settings</string>
+    <string name="menu_updates">Check for Updates</string>
+    <string name="menu_signoff">Sign Off</string>
+    <string name="netra_autorefractor2">EyeNetra Auto-Refractor</string>
+    <string name="netra_results">NETRA RESULTS</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">CUSTOMERS</string>
+
+    <string name="unkown_device" translatable="false">--</string>
+    <string name="device_number" translatable="false">#</string>
+
+    <string name="english_us" translatable="false">English (US)</string>
+    <string name="spanish_us" translatable="false">Español (MX,US)</string>
+    <string name="spanish_ES" translatable="false">Español (ES)</string>
+    <string name="french_FR" translatable="false">Français (FR,CA)</string>
+    <string name="german_DE" translatable="false">Deutsch</string>
+    <string name="dutch_NL" translatable="false">Nederlandse</string>
+    <string name="italy_IT" translatable="false">Italiano</string>
+    <string name="portuguese_BR" translatable="false">Português</string>
+    <string name="chinese_Sim" translatable="false">简体中文</string>
+    <string name="japanese" translatable="false">日本語</string>
+    <string name="vietnamese" translatable="false">Tiếng Việt</string>
+    <string name="nepali" translatable="false">नेपाली</string>
+    <string name="bengali" translatable="false">বাঙালি</string>
+    <string name="swahili_TZ" translatable="false">Kiswahili (TZ)</string>
+
+    <string name="adjust_refraction">Adjusting Refraction</string>
+    <string name="adjust_pd">Adjusting PD</string>
+    <string name="subj_refraction">SUBJECTIVE REFRACTION</string>
+
+    <string name="back_home">HOME</string>
+
+    <string name="rounding">Rounding to</string>
+    <string name="rounding025" translatable="false">.25</string>
+    <string name="rounding001" translatable="false">.01</string>
+
+    <string name="rounding_powers_title">Rounding SPH and CYL</string>
+    <string name="rounding_powers_desc">You can choose to round the results to the nearest 0.25D or keep it raw at 0.01D.</string>
+
+    <string name="unable_to_complete_request">Unable to complete the request. Please make sure you are online. Message us at info@eyenetra.com if the problem persists.</string>
+
+
+    <string name="patient">Patient</string>
+    <string name="app">App</string>
+    <string name="showNumbers">Fogging Numbers</string>
+    <string name="trainingAngles">Training Angles</string>
+    <string name="acuity_label">Acuity</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">Minus</string>
+    <string name="plus_cylinder">Plus</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Sphere</string>
+    <string name="display_results_as">DISPLAY RESULTS AS</string>
+    <string name="language_uppercase">LANGUAGE</string>
+    <string name="test_options">REFRACTIVE TEST</string>
+    <string name="settings_header">SETTINGS</string>
+    <string name="cylinder_label">Cylinder</string>
+    <string name="suggested">Suggested</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="training_angles_title">Angles for Training</string>
+    <string name="training_angles_desc">When active, NETRA will perform 2 additional angles without recording measurements. \n\nThis is ideal for training with the Chrome Cast app. The patient performs the training while looking at the TV and the measurements while looking inside the device.</string>
+
+    <string name="show_numbers_title">Fogging Numbers</string>
+    <string name="show_numbers_desc">The numbers that appear after each measurement help the patient to relax their eyes, focusing as far as they can. \n\nActivate this feature to strengthen the accommodation control.</string>
+
+    <string name="repetitions">Repetitions</string>
+    <string name="repetitions18" translatable="false">18</string>
+    <string name="repetitions34" translatable="false">34</string>
+
+    <string name="show_repetitions_title">Number of Repetitions</string>
+    <string name="show_repetitions_desc">Choose the amount of datapoints NETRA will collect per exam. \n\n The usual is 18 repetitions, but if you need bigger accuracy, choose 34 repetitions</string>
+
+
+    <string name="play_icon_msg">Look inside\nand press the button\nto Start.</string>
+    <string name="poor_results_title">Confidence is Poor</string>
+    <string name="poor_results_desc">The patient missed 2-3 alignments. This usually happens when the person forgot to realign himself to best see the lines or when he was still learning how to perform the test when he/she started. Please try again. </string>
+    <string name="lousy_results_title">Confidence is Lousy</string>
+    <string name="lousy_results_desc">Alignments are very different from each other. The patient either did not understand what he needed to do or might have another eye/health condition affecting his view.</string>
+    <string name="no_not_now">No, not now</string>
+
+
+    <string name="recommended_use_smartphone">Smartphone</string>
+    <string name="recommended_use_reading">Reading</string>
+    <string name="recommended_use_computer">Computer</string>
+    <string name="recommended_use_driving">Driving</string>
+    <string name="recommended_use_constant_wear">Constant</string>
+    <string name="recommended_use_distance_vision">Distance</string>
+
+    <string name="dashboard_measurements">Measurements</string>
+    <string name="dashboard_prescriptions">Shares</string>
+    <string name="dashboard_readytosync">Ready to Sync</string>
+
+
+</resources>

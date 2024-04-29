@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">About</string>
+    <string name="insight_account">アカウントを入力してください</string>
+    <string name="about_version">%1$s v%2$s</string>
+    <string name="about_copyright">(c)2024 Vitor Pamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">スタート</string>
+
+    <string name="start_beginner">入門編</string>
+    <string name="start_experienced">スタート</string>
+
+    <string name="got_it">了解</string>
+    <string name="insert_into_device">ここを押してデバイスを装着してください。</string>
+    <string name="login">ログイン</string>
+
+    <string name="aligned">一致しました</string>
+    <string name="found">OK, 見つかりました</string>
+
+    <string name="signup">サインアップ</string>
+    <string name="start_test">確認</string>
+    <string name="restart_uppercase">再起動</string>
+    <string name="finish_uppercase">終了</string>
+    <string name="finish_with_note_uppercase">ADD NOTE</string>
+    <string name="got_it_let_me_try">試してみます</string>
+
+    <string name="restart_training">トレーニングを再開</string>
+    <string name="result_screen">結果</string>
+    <string name="navigation_drawer_open">ナビゲーションドロワーを開く</string>
+    <string name="navigation_drawer_close">ナビゲーションドロワーを閉じる</string>
+    <string name="action_settings">設定</string>
+
+    <string name="not_online_title">デバイスはオフラインです</string>
+    <string name="not_online_desc">ログインまたはサインアップする前に、モバイルデータをWi-Fiに接続してください</string>
+
+    <string name="missing_email">Eメールが不明です</string>
+    <string name="insert_valid_email">有効なEメールを入れてください</string>
+    <string name="invalid_email_title">無効なメール</string>
+    <string name="email_format_is_invalid">メール形式が無効です</string>
+    <string name="invalid_password">無効なパスワード</string>
+    <string name="insert_a_valid_password"> 8文字、少なくとも1つの大文字と1つの数字を含むパスワードを入れてください</string>
+    <string name="authenticating">認証中...</string>
+    <string name="invalid_login_msg">メールアドレスもしくはパスワードが間違っています</string>
+    <string name="login_invalid">ログインが無効です</string>
+    <string name="incomplete_sign_up">サインアップが不完全です</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="minus">－</string>
+    <string name="plus">＋</string>
+
+    <string name="confidence_great">正確性100%</string>
+    <string name="confidence_good">正確性 75%</string>
+    <string name="confidence_poor">正確性 50%</string>
+    <string name="confidence_very_poor">正確性 25%</string>
+
+    <string name="add_note">メモを追加</string>
+    <string name="add_note_desc">短い識別子をタグ付けする</string>
+    <string name="add_note_hint">被験者名</string>
+    <string name="age_hint">年齢</string>
+
+    <string name="error_battery_below_20_title">バッテリーが20％未満</string>
+    <string name="error_battery_below_20_desc">バッテリーが20％を下回ると、Androidは処理能力を低下させ、輝度を表示します\nこれは、精度結果に影響します\nデバイスを充電してください</string>
+
+    <string name="off_line_title">デバイスはオフラインです</string>
+    <string name="off_line_desc">アップデートやリアルタイムサポートの受取やインサイトポータルでデータを視覚化する為にインターネットに接続してください</string>
+
+    <string name="update_title">新しいバージョンが利用可能です</string>
+    <string name="update_desc">このアプリケーションの最新バージョンをダウンロードする為にPlayストアアプリを利用してください\n 1週間おきに新しいバージョンをリリースしています</string>
+
+    <string name="camera_locked_title">カメラがロックされています</string>
+    <string name="camera_locked_desc">カメラは現在、別のアプリケーションで使用されています。 他のすべてのアプリケーションを閉じるか、デバイスを再起動してください。</string>
+    <string name="use_left_knob_to_align_lines">上下のラインを合わせる為に左ダイヤルを使用</string>
+    <string name="ok_they_are_aligned">上下のラインが合致しました</string>
+    <string name="press_confirm_to_record_measurement">記録の測定を確認する</string>
+
+    <string name="you_will_perform_this_test_yourself">テストを制御します</string>
+    <string name="sit_comfortably">肘で支えながら楽に座ってください</string>
+    <string name="learn_controls">コントロールを学ぶ</string>
+    <string name="when_you_see_a_checkmark_you_are_done">青いチェックマークが表示されるまで続けます</string>
+    <string name="the_lines_rotate">ラインは新しい測定のために回転します</string>
+
+    <string name="great_confirm"> 確認してください</string>
+    <string name="login_to_see_your_account">アカウント情報を見るにはログインしてください</string>
+    <string name="login_required">ログインが必要です</string>
+    <string name="default_organization_name">アイケアの実践</string>
+
+    <string name="save">保存</string>
+    <string name="cancel">キャンセル</string>
+    <string name="ok">OK</string>
+
+    <string name="requesting_token">トークンをリクエストします</string>
+    <string name="number_prefix_reading_card_empty_note">試験</string>
+    <string name="today">今日</string>
+    <string name="yesterday">昨日</string>
+    <string name="cancel_test">キャンセル</string>
+    <string name="finish_test">準備完了</string>
+    <string name="training">トレーニング</string>
+    <string name="insert_into_device_test">デバイスに挿入してください\nまたは戻るを押してテストをキャンセルします</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">続けるにはデバイスに挿入してください \nまたはPD結果を見るには戻るを押してください</string>
+    <string name="welcome">ようこそ</string>
+    <string name="password_hint">パスワード</string>
+    <string name="email_hint">Eメール</string>
+
+    <string name="prescribe_uppercase">シェア</string>
+
+    <string name="netra_autorefractor">アイネトラオートリフレクター</string>
+    <string name="clean_and_dim">アイシールドを掃除して部屋を暗くしてください</string>
+    <string name="ready_to_begin">準備してください</string>
+    <string name="press_confirm_insert_and_hand">ボタンを押してください, デバイスをNETRAに挿入し、被験者に渡してください</string>
+    <string name="latest_readings">最新の読み取り</string>
+    <string name="repeat_8_times_per_eye">チェックマークが表示されるまで繰り返してください</string>
+    <string name="find_with_brightness">明るい環境を探してください</string>
+    <string name="align_with_alignment">調整ボタンで調整する</string>
+    <string name="record_by_pressing_confirm">確認ボタンを押して記録する</string>
+    <string name="right_eye">右目</string>
+    <string name="left_eye">左目</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="result_add">加入度</string>
+    <string name="confidence_label">信頼度</string>
+    <string name="visual_acuity_label">視力</string>
+    <string name="pd_label">PD</string>
+    <string name="user_right_knob_to_find">上下のラインを見つける為に右ボタンを使用してください</string>
+    <string name="notes">メモ</string>
+    <string name="pd_label2">PD: </string>
+
+    <string name="menu_updates">更新を確認する</string>
+    <string name="menu_home">自宅</string>
+    <string name="menu_visits">訪問 (プレミアム)</string>
+    <string name="menu_customers">顧客 (プレミアム)</string>
+    <string name="menu_measurements">近用</string>
+    <string name="menu_support">サポート</string>
+    <string name="menu_buy">購入</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_signoff">サインアウト</string>
+    <string name="netra_autorefractor2">アイネトラオートリフレクター</string>
+    <string name="netra_results">ネトラ結果</string>
+    <string name="left_eye_short">OS</string>
+    <string name="right_eye_short">OD</string>
+
+    <string name="customers">顧客</string>
+
+    <string name="nepali">ネパール語</string>
+    <string name="adjust_refraction">屈折調整</string>
+    <string name="adjust_pd">PD調整</string>
+    <string name="subj_refraction">主観的屈折</string>
+
+    <string name="back_home">HOMEに戻る</string>
+
+    <string name="rounding">四捨五入</string>
+
+    <string name="rounding_powers_title">SPH and CYLを四捨五入</string>
+    <string name="rounding_powers_desc">測定測定を0.01D単位で維持するか、0.25Dに繰り上げ/切り捨てするかを選択できます</string>
+
+    <string name="patient">被験者</string>
+    <string name="app">App</string>
+    <string name="showNumbers">番号を表示</string>
+    <string name="trainingAngles">トレーニングす</string>
+    <string name="acuity_label">視力</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">-</string>
+    <string name="plus_cylinder">＋</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">球体</string>
+    <string name="display_results_as">結果を表示する</string>
+    <string name="language_uppercase">検査</string>
+    <string name="test_options">屈折テスト</string>
+    <string name="settings_header">設定</string>
+    <string name="cylinder_label">シリンダー</string>
+    <string name="suggested">提示</string>
+
+    <string name="yes">オン</string>
+    <string name="no">オフ</string>
+
+    <string name="repetitions">繰り返し</string>
+
+    <string name="training_angles_title">トレーニング時におけるアイネトラの角度</string>
+    <string name="training_angles_desc">アクティブの場合、NETRAは測定値を記録せずに2つの追加角度を実行します \n\nこれは、Chrome Castでのトレーニングに最適です。 被験者はテレビを見ながらトレーニングしたり、デバイス内部を見ながら測定します。</string>
+
+    <string name="show_numbers_title">番号を表示</string>
+    <string name="show_numbers_desc">各測定後に表示される数値は、顧客ができる限り集中して目をリラックスさせるのに役立ちます\n\nこの機能を有効にして、調節制御を強化します</string>
+
+    <string name="play_icon_msg">内部画面を見てください\nボタンを押してください\nスタート</string>
+
+    <string name="poor_results_title">検査結果に矛盾が発生しています</string>
+    <string name="poor_results_desc">被検者は操作を2回から3回失敗した可能性があります。これは、基本的に赤若しくは緑のマークが見えていないにも関わらず、操作が引き続き行われたか、操作が規定通りに実行されていない場合に起こります。再度、検査を実行して下さい </string>
+    <string name="lousy_results_title">検査結果に矛盾が生じている可能性があります</string>
+    <string name="lousy_results_desc">各測定結果に矛盾があります。 被験者が正しい方法で測定出来ていないか、本機で測定するにあたり測定環境が十分でない可能性があります</string>
+
+    <string name="dashboard_measurements">近用</string>
+    <string name="dashboard_prescriptions">共有</string>
+    <string name="dashboard_readytosync">同期準備完了</string>
+
+
+</resources>
+

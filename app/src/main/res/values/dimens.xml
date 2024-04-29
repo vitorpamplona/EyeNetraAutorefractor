@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- TODO: move these to sw600dp and create support multiple screen sizes -->
+    <dimen name="pager_fragment_padding">32dp</dimen>
+
+    <dimen name="text_size_primary">48dp</dimen>
+    <dimen name="text_size_secondary">32dp</dimen>
+    <dimen name="text_size_tertiary">24dp</dimen>
+    <dimen name="text_size_label">16dp</dimen>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">160dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="button_size">78dp</dimen>
+
+    <dimen name="text_size_radio_button">@dimen/text_size_secondary</dimen>
+    <dimen name="text_size_radio_button_small">@dimen/text_size_label</dimen>
+    <dimen name="text_size_check_box">@dimen/text_size_secondary</dimen>
+    <dimen name="text_size_check_box_small">22sp</dimen>
+
+    <dimen name="button_width">250dp</dimen>
+    <dimen name="button_large_width">400dp</dimen>
+    <dimen name="button_height">88dp</dimen>
+    <dimen name="button_stroke_width">4dp</dimen>
+    <dimen name="button_text_size">36dp</dimen>
+
+    <dimen name="button_margin">10dp</dimen>
+
+    <dimen name="text_size_default">18sp</dimen>
+
+    <dimen name="edit_text_padding">10dp</dimen>
+    <dimen name="edit_text_stroke_width">1dp</dimen>
+    <dimen name="edit_text_error_stroke_width">1dp</dimen>
+    <dimen name="edit_text_focused_stroke_width">2dp</dimen>
+
+    <dimen name="check_box_padding">5dip</dimen>
+    <dimen name="radio_button_padding">8dip</dimen>
+    <dimen name="radio_button_margin">40dp</dimen>
+
+    <dimen name="info_card_button_vertical_padding">20dp</dimen>
+    <dimen name="info_card_button_width">250dp</dimen>
+    <dimen name="info_card_button_stroke_width">6dp</dimen>
+
+    <dimen name="exit_menu_button_vertical_padding">20dp</dimen>
+    <dimen name="exit_menu_button_width">250dp</dimen>
+    <dimen name="exit_menu_button_stroke_width">6dp</dimen>
+
+
+    <dimen name="visual_acuity_cell_height">55dp</dimen>
+    <dimen name="visual_acuity_cell_width">55dp</dimen>
+    <dimen name="visual_acuity_cell_stroke_width">2dp</dimen>
+    <dimen name="visual_acuity_cell_text_size">20dp</dimen>
+    <dimen name="visual_acuity_cell_padding_bottom">2dp</dimen>
+    <dimen name="visual_acuity_label_text_size">24dp</dimen>
+
+    <dimen name="spinner_stroke_width">2dp</dimen>
+    <dimen name="spinner_height">55dp</dimen>
+
+    <dimen name="reading_distance_cell_height">55dp</dimen>
+    <dimen name="reading_distance_cell_width">146dp</dimen>
+    <dimen name="reading_distance_cell_stroke_width">2dp</dimen>
+    <dimen name="reading_distance_cell_text_size">32dp</dimen>
+    <dimen name="reading_distance_label_text_size">24dp</dimen>
+
+    <dimen name="default_gap">10dip</dimen>
+    <dimen name="small_gap">5dip</dimen>
+
+    <dimen name="en_text_size_micro">10sp</dimen>
+    <dimen name="en_text_size_xsmall">12sp</dimen>
+    <dimen name="en_text_size_small">14sp</dimen>
+    <dimen name="en_text_size_small_medium">16sp</dimen>
+    <dimen name="en_text_size_medium">18sp</dimen>
+    <dimen name="en_text_size_large">24sp</dimen>
+    <dimen name="en_text_size_xlarge">48sp</dimen>
+    <dimen name="en_text_size_xxlarge">72sp</dimen>
+
+    <dimen name="action_bar_default_height">48dp</dimen>
+    <dimen name="action_bar_default_height_debug">120dp</dimen>
+
+    <dimen name="exam_header_textsize">12dp</dimen>
+    <dimen name="exam_header_instruction_textsize">24dp</dimen>
+    <dimen name="exam_instructions">18dp</dimen>
+    <dimen name="exam_sidebar_opened_width">210dp</dimen>
+    <dimen name="exam_sidebar_icon_horz_padding">8dp</dimen>
+    <dimen name="exam_sidebar_icon_width">48dp</dimen>
+    <dimen name="exam_sidebar_closed_width">62dp
+    </dimen> <!-- icon width + padding + sidebar bevel width -->
+    <dimen name="exam_battery_sidebar_width">28dp
+    </dimen> <!-- battery+patient+buffer width = sidebar icon width -->
+    <dimen name="exam_patient_image_sidebar_width">18dp</dimen>
+    <dimen name="exam_patient_battery_buffer_width">2dp</dimen>
+    <dimen name="exam_main_test_height">180dp</dimen>
+
+    <dimen name="actionbar_compat_height">46dp</dimen>
+    <dimen name="actionbar_compat_button_width">48dp</dimen>
+    <dimen name="actionbar_compat_button_home_width">56dp</dimen>
+    <dimen name="knob_button_text_size">60dp</dimen>
+
+    <dimen name="next_button_width">100dp</dimen>
+    <dimen name="next_button_height">135dp</dimen>
+    <dimen name="two_button_height">51dp</dimen>
+    <dimen name="one_button_height">64dp</dimen>
+    <dimen name="same_button_height">76dp</dimen>
+
+    <dimen name="side_bar_bevel_width">6dp</dimen>
+
+    <dimen name="help_button_top_margin">10dp</dimen>
+    <dimen name="help_button_height">30dp</dimen>
+    <dimen name="help_button_width">30dp</dimen>
+
+    <dimen name="action_bar_width">100dp</dimen>
+    <dimen name="title_bar_height">80dp</dimen>
+    <dimen name="top_title_bar_height">48dp</dimen>
+    <dimen name="bottom_bar_height">120dp</dimen>
+
+
+    <dimen name="title_bar_text_size">14sp</dimen>
+    <dimen name="bottom_status_text_size">14sp</dimen>
+
+    <dimen name="home_title_bar_height">48dp</dimen>
+
+    <dimen name="angle_screen_box_height">15dp</dimen>
+    <dimen name="angle_screen_box_width">45dp</dimen>
+
+    <dimen name="pre_instr_back_next_button_width">48dp</dimen>
+    <dimen name="pre_instr_back_next_button_half_width">24dp</dimen>
+
+    <dimen name="home_bkg_horizontal">80dp</dimen>
+    <dimen name="home_bkg_vertical">10dp</dimen>
+
+    <dimen name="home_bkg_horizontal_with_back_next_button">32dp
+    </dimen> <!-- home_bkg_horizontal -  pre_instr_back_next_button_half_width-->
+
+    <dimen name="patient_profile_image_height">180dp</dimen>
+    <dimen name="patient_profile_image_width">180dp</dimen>
+
+    <dimen name="ruler_height">120dp</dimen>
+
+    <dimen name="default_button_size">70dp</dimen>
+    <dimen name="default_button_half_size">35dp</dimen>
+    <dimen name="default_button_half_half_size">17dp</dimen>
+
+    <dimen name="buttons_margin_top">46dp</dimen>
+
+
+    <!-- NEW BLUE THEME -->
+
+    <dimen name="button_padding">10dp</dimen>
+    <dimen name="button_wide_padding">40dp</dimen>
+    <dimen name="button_small_padding">5dp</dimen>
+
+    <dimen name="button_wide_width">150dp</dimen>
+    <dimen name="button_small_width">75dp</dimen>
+
+    <dimen name="button_small_text_size">12sp</dimen>
+
+    <!-- HOME -->
+    <dimen name="home_button_margin">10dp</dimen>
+
+    <!-- PRE TEST -->
+    <dimen name="pre_test_card_text_size">32dp</dimen>
+    <dimen name="pre_test_instructions_padding">20dp</dimen>
+    <dimen name="pre_test_title_size">36dp</dimen>
+    <dimen name="pre_test_text_size">18dp</dimen>
+
+    <!-- PD EXAM -->
+    <dimen name="pd_item_margin">5dp</dimen>
+
+    <!-- RESULTS -->
+    <dimen name="results_text_extra_large">48dp</dimen>
+    <dimen name="results_text_large">24dp</dimen>
+    <dimen name="results_text_medium">16dp</dimen>
+    <dimen name="results_text_small">12dp</dimen>
+
+    <dimen name="results_button_margin_bottom">5dp</dimen>
+
+    <!-- FULL EXPLANATION DIALOG -->
+    <dimen name="full_explanation_title_size">14dp</dimen>
+    <dimen name="full_explanation_text_size">24sp</dimen>
+</resources>

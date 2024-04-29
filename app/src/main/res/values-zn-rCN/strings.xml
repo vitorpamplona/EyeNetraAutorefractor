@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <string name="app_name">Netra</string>
+    <string name="about">关于</string>
+    <string name="insight_account">INSIGHT</string>
+    <string name="about_version">%1$s对%2$s</string>
+    <string name="about_copyright">(c)2024 VitorPamplona</string>
+    <string name="account_name">EyeNetra</string>
+
+    <string name="start_uppercase">开始</string>
+
+    <string name="start_beginner">初学者</string>
+    <string name="start_experienced">专家</string>
+
+    <string name="got_it">知道了</string>
+    <string name="insert_into_device">按这里\n加载手机</string>
+    <string name="login">登录</string>
+
+    <string name="aligned">已对齐</string>
+    <string name="found">好，发现他们了！</string>
+
+    <string name="signup">注册</string>
+    <string name="start_test">确认</string>
+    <string name="restart_uppercase">重启</string>
+    <string name="finish_uppercase">完成</string>
+    <string name="finish_with_note_uppercase">添加注释</string>
+    <string name="got_it_let_me_try">知道了！让我试试</string>
+
+    <string name="restart_training">重启训练</string>
+    <string name="result_screen">结果</string>
+
+    <string name="navigation_drawer_open">打开导航抽屉</string>
+    <string name="navigation_drawer_close">关闭导航抽屉</string>
+    <string name="action_settings">设置</string>
+
+    <string name="not_online_title">设备离线</string>
+    <string name="not_online_desc">请登录或注册前连接到您的Wi-Fi或移动数据</string>
+
+    <string name="missing_email">缺少电子邮件</string>
+    <string name="insert_valid_email">插入有效的电子邮件</string>
+    <string name="invalid_email_title">无效的电子邮件</string>
+    <string name="email_format_is_invalid">电子邮件格式无效</string>
+    <string name="invalid_password">无效的密码</string>
+    <string name="insert_a_valid_password">插入包含​​8个字母和数字组成的密码</string>
+    <string name="authenticating">验证中...</string>
+    <string name="invalid_login_msg">电子邮件或密码错误</string>
+    <string name="login_invalid">登录信息无效</string>
+    <string name="incomplete_sign_up">未完成注册</string>
+
+    <string name="minus_cyl_label">-CYL</string>
+    <string name="plus_cyl_label">+CYL</string>
+
+    <string name="confidence_great">太好了</string>
+    <string name="confidence_good">不错</string>
+    <string name="confidence_poor">很差</string>
+    <string name="confidence_very_poor">糟糕</string>
+
+    <string name="add_note">添加注释</string>
+    <string name="add_note_desc">使用短标识符标记结果</string>
+    <string name="add_note_hint">"患者姓名 "</string>
+
+    <string name="error_battery_below_20_title">电池电量低于20％</string>
+    <string name="error_battery_below_20_desc">当电池电量低于20%时，Android的处理能力和显示亮度会降低。这会影响结果的准确性。请为设备充电。</string>
+
+    <string name="use_left_knob_to_align_lines">使用左旋钮\n来对齐线条</string>
+    <string name="ok_they_are_aligned">好了，对齐了。</string>
+    <string name="press_confirm_to_record_measurement">按确认\n记录测量值</string>
+    <string name="great_confirm">太好了！确认</string>
+    <string name="login_to_see_your_account">登录查看您的帐户</string>
+    <string name="login_required">需要登录</string>
+    <string name="default_organization_name">我的护眼练习</string>
+
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="ok">确定</string>
+
+    <string name="requesting_token">正在请求令牌...</string>
+    <string name="number_prefix_reading_card_empty_note">测试</string>
+    <string name="today">今天</string>
+    <string name="yesterday">昨天</string>
+    <string name="cancel_test">取消</string>
+    <string name="finish_test">全部设置</string>
+    <string name="insert_into_device_test">插入设备\n或按返回取消测试</string>
+    <string name="insert_into_device_or_back_to_see_PD_results">插入设备继续\n或按返回查看PD结果</string>
+    <string name="welcome">欢迎</string>
+    <string name="password_hint">密码</string>
+    <string name="email_hint">电子邮件</string>
+
+    <string name="netra_autorefractor">NETRA自动验光仪</string>
+    <string name="clean_and_dim">清洁眼罩\n并调暗房间。</string>
+    <string name="ready_to_begin">准备开始</string>
+    <string name="press_confirm_insert_and_hand">按下按钮，将手机插入NETRA并交给用户。</string>
+    <string name="latest_readings">最新读数</string>
+    <string name="repeat_8_times_per_eye">每只眼睛重复8次</string>
+    <string name="find_with_brightness">使用亮度旋钮查找</string>
+    <string name="align_with_alignment">使用对齐旋钮来对齐</string>
+    <string name="record_by_pressing_confirm">按确认键记录</string>
+    <string name="right_eye">右</string>
+    <string name="left_eye">左</string>
+    <string name="sph">SPH</string>
+    <string name="cyl">CYL</string>
+    <string name="axis_label">AXIS</string>
+    <string name="confidence_label">配置</string>
+    <string name="pd_label">瞳孔距离</string>
+    <string name="user_right_knob_to_find">使用右旋钮\n 来查找线条</string>
+    <string name="notes">注释</string>
+    <string name="pd_label2">瞳孔距离：</string>
+
+    <string name="menu_home">首页</string>
+    <string name="menu_visits">访问（付费版）</string>
+    <string name="menu_customers">客户（付费版）</string>
+    <string name="menu_measurements">读数</string>
+    <string name="menu_support">支持</string>
+    <string name="menu_settings">设置</string>
+    <string name="menu_signoff">退出</string>
+    <string name="right_eye_short">右</string>
+    <string name="netra_autorefractor2">EyeNetra自动验光仪</string>
+    <string name="netra_results">NETRA RESULTS</string>
+    <string name="left_eye_short">左</string>
+    <string name="acuity_label">視力</string>
+    <string name="age_hint">年龄</string>
+    <string name="customers">顾客</string>
+    <string name="subj_refraction">主观验光</string>
+
+    <string name="patient">患者</string>
+    <string name="app">应用</string>
+    <string name="acuity_imperial">20/20</string>
+    <string name="acuity_metric">6/6</string>
+    <string name="minus_cylinder">负数</string>
+    <string name="plus_cylinder">正数</string>
+    <string name="sph_equivalent">SphEq</string>
+    <string name="spherocylindrical">Sph+Cyl</string>
+    <string name="sphere">Sphere</string>
+    <string name="display_results_as">结果按</string>
+    <string name="language_uppercase">语言</string>
+    <string name="settings_header">设置</string>
+    <string name="cylinder_label">Cylinder</string>
+    <string name="adjust_pd">调节瞳孔间距</string>
+    <string name="adjust_refraction">调整折射</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="sph_eq_label">SEQ</string>
+    <string name="back_home">首页</string>
+    <string name="Thats_it">好的了解了</string>
+    <string name="prescribe_uppercase">规定</string>
+    <string name="prescribing">预约</string>
+    <string name="the_lines_rotate">用于新测量的线路旋转</string>
+    <string name="date_of_birth">出生日期</string>
+</resources>
